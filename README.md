@@ -1,6 +1,6 @@
-# Bodies First
+# Start at the physical bodies, and the weight they carry. All other considerations follow from there. 
 
-Ask one question before anything else: did a load actually come off a living person, and did another person have to carry it?
+Ask these questions before anything else: did a weight actually come off a living person, and did another body have to carry it, and how do we engineer the circumstances of what is adding weight so that it no longer requires vigilance?
 
 A burden moved, delayed, hidden in paperwork, or pushed into next year is still being carried somewhere. A repair counts when it reaches the person it was meant to reach.
 
