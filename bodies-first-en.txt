@@ -38,7 +38,7 @@ Whoever a sentence starts with is who the sentence follows. A paragraph that ope
 
 Name the condition you want before choosing a method, or the method becomes the goal. Set the endpoint at "the patient gets treated" and several methods can compete on their merits. Set it at "the patient gets a referral" and the referral system has won before anyone asks whether treatment happened.
 
-One failure happens before any repair gets tried, when the wanted condition never gets said out loud because saying it sounds childish or sounds unrealistic. Say it anyway. Say water should reach the houses without a four-hour walk. Say this person should be able to see a doctor without losing a whole day to travel and waiting. Saying it makes the condition available to think about. Someone who has spent years asking how to bear a recurring expense may never have been told that the expense itself could end.
+One failure happens before any repair gets tried, when the wanted condition never gets said out loud because saying it sounds childish or sounds unrealistic. Say it anyway. Say water should reach the houses without a four-hour walk. Say this person should be able to see a doctor without losing a day to travel and waiting. Saying it makes the condition available to think about. Someone who has spent years asking how to bear a recurring expense may never have been told that the expense itself could end.
 
 Keep that condition in view and go find what blocks it. A pipe needs money, a clinic needs nurses, a road crosses unstable ground. Each names a specific limit somebody can examine. "Unrealistic" gives it nothing. The person who says it cannot be done often knows exactly where the last attempt stopped, because he walked into the wall, so asking what blocks it is more useful than asking why he will not help.
 
@@ -50,7 +50,7 @@ An exception written into a rule will be used, so follow the weight through the 
 
 ## Removal and relocation look identical from a distance, so follow the weight to the hand that caught it
 
-Removal and relocation look identical from a distance, and telling them apart is most of the skill.
+Removal and relocation look identical from a distance, so the work is telling them apart.
 
 The park is cleared and the people who slept there still have nowhere to go. The hospital shortens stays and relatives do the nursing at home for free. The park's record may not have a line for homelessness. The hospital's record has no line for the daughter.
 
@@ -68,7 +68,7 @@ Pipes carry water so nobody hauls it. Walls hold roofs without anyone standing t
 
 Institutions do this work too. A grocery store organizes the food each household would otherwise arrange separately. Automation takes over repeated tasks. A regulator carries inspection work every person would otherwise repeat alone. An institution is there to carry weight. Its name is not evidence that it does.
 
-Follow those arrangements to what they actually take off people. The staff have bodies, so follow their share too. A built structure and a staffed one are not the same. A pipe takes the hauling out of the world. A department or a standing rota moves it onto whoever is on shift, which is a transfer and reads like one.
+Follow those arrangements to what they actually take off people. The staff have bodies, so follow their share too. A pipe takes the hauling out of the world and asks nothing of anyone afterward. A department or a standing rota carries the load through the people on shift, so follow it onto them and read what they are carrying.
 
 Then go one step further and look for a design where the weight never has to arise. A protected lane supplies real separation. A painted line leaves that separation to everyone's attention on every trip.
 
@@ -78,7 +78,7 @@ Watching is work somebody has to keep doing. The cost stays when the watch is ne
 
 Fraud screening catches false claims and spends an afternoon of every honest applicant. A manager who checks everything spends his staff's attention whether or not they would have erred. A parent who monitors constantly makes a child account for every action.
 
-Ask what would end the need for the watch before asking how to staff it. Find the arrangement that keeps producing the error, the danger, or the demand to prove the same fact again. Change that and a whole line of recurring demands stops coming back.
+Ask what would end the need for the watch before asking how to staff it. Find the arrangement that keeps producing the error, the danger, or the demand to prove the same fact again. Change that and a line of recurring demands stops coming back.
 
 Some dangers still need someone watching. That is a condition to examine, not a reason to stop asking.
 
@@ -228,7 +228,7 @@ How a sentence is built decides what can hide inside it. A sentence built to the
 
 **Write both sides or the entry is not written.** What got lighter, and who got heavier. A lift with no named loser is a transfer with the bearer left off the books. Every institution records its own credits. Nobody records the matching debit, because the debit falls outside the fence where the recording happens.
 
-**Say it directly. Do not announce a sentence before writing it.** A sentence whose whole content is describing the next sentence has no content. Do not write "here is a point of disagreement." State the disagreement. Do not write "there are three points, the first most important." Make the three points. Do not rate how well someone else put something; the praise establishes nothing and spends the reader's attention anyway.
+**Say it directly. Do not announce a sentence before writing it.** A sentence that only describes the next sentence has no content. Do not write "here is a point of disagreement." State the disagreement. Do not write "there are three points, the first most important." Make the three points. Do not rate how well someone else put something; the praise establishes nothing and spends the reader's attention anyway.
 
 **Plain current words.** Write so a reader a hundred years from now still follows it. A comparison stays when it explains a relationship: a beam holds a roof, a pipe removes the hauling, a protected lane supplies real separation. Those explain support, removal, and the cost of vigilance. Decoration arrives exactly where a detail was owed, and once the sentence sounds finished the writer stops looking for it. "Thing" and "stuff" usually mark a person, action, or burden the sentence has not named yet.
 
