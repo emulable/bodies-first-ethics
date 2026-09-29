@@ -44,11 +44,11 @@ Naming everyone and then netting their burdens against each other loses them ins
 
 Burdens don't get ranked here. Get rid of them where you see them, where you have the power to, and where you think about them.
 
-## The question points the eyes and returns no verdict, so it stays a lens and never grows into a machine
+## The question points the eyes and returns no verdict, so it never grows into a machine that computes totals
 
 Utilitarian arithmetic and duty-based ethics work as engines: give them a situation and they return a ruling. This question names where to look first, keeps asking what is still on people, and hands the choice between competing burdens back to whoever has to make it. It supplies no formula for choosing between patients in a shortage and no score for deciding who should suffer.
 
-Calling it an ethical theory is a category error, because a theory rules on cases and this decides where you look first. Used as a lens, it clarifies. Used as a scorecard that computes a total and acts to maximize it, it inherits every problem it was built to avoid.
+Calling it an ethical theory is a category error, because a theory rules on cases and this decides where you look first. Used as a scorecard that computes a total and acts to maximize it, it inherits every problem it was built to avoid.
 
 Everything here comes out of one question. When a new case seems to need a new rule or an exception, the definition was not specific enough. Tighten the words before adding anything.
 
