@@ -2,9 +2,9 @@
 
 **Look to the bodies carrying a burden, and take it off. Ask "why not?" until it's gone.**
 
-A body is anyone who can go hungry, grow tired, get scared, or get hurt. A burden is weight a body cannot set down by choosing. Moving a burden onto someone else never counts as removing it. Why someone carries a burden changes nothing about how heavy it is. No total ever licenses running a person down. Institutions are built to carry weight and people are not, so recurring burdens belong on structures, the way a curb protects every rider while a painted line depends on every driver paying attention. Take every relief in full, then ask what is still on them, and keep asking until the answer is none.
-
 A hospital shortens its stays. Its records show fewer days in a bed. The night nursing goes home with the patient, to a daughter, unpaid, and her lost sleep appears on no record anywhere. A pipe reaches a village, water comes to the houses, and nobody walks four hours to fetch it, and nobody else was sent to make the walk. Both changes look like progress in the records that produced them. In the first, the work moved from the hospital onto the daughter. In the second, the burden ended.
+
+A body is anyone who can go hungry, grow tired, get scared, or get hurt. A burden is weight a body cannot set down by choosing. Moving a burden onto someone else never counts as removing it. Why someone carries a burden changes nothing about how heavy it is. No total ever licenses running a person down. Institutions are built to carry weight and people are not, so recurring burdens belong on structures, the way a curb protects every rider while a painted line depends on every driver paying attention. Take every relief in full, then ask what is still on them, and keep asking until the answer is none.
 
 ## Every change gets the same three questions: did a burden come off a body, was another body made to catch it, and can someone go and check
 
@@ -301,20 +301,6 @@ A camp guard too old to hurt anyone gets no punishment past the truth about what
 
 Punish honesty, and honesty stops arriving. Then every repair runs without information about the person still under the weight. Blame makes people hide where burdens come from. Fields that protect the people who report mistakes, like aviation safety, get the information blame never gets.
 
-## Name the conduct and leave a way to stop, because conduct can stop and identity has no exit
-
-Name the conduct and leave the person's standing alone. Conduct can stop. Identity cannot, so attacking identity leaves the burden exactly where it was and hands the person a heavier one besides. Forgive the standing and never the burden.
-
-People defend a plan harder when their name is tied to it. A manager whose name is on a failing plan hears "stop the plan" as "you are worthless." Separate leaving the role from any claim about the person. The patient or worker underneath needs the action to stop.
-
-Put the connection between his conduct and the body underneath in front of him, and let him look at it. Do not hand him a description of himself that he has to accept before he can take part.
-
-Tie a reversal to the reading. "The number moved, so the method moves" gives a reason to change course without requiring a confession. The price of stopping drops to almost nothing, and that price is often all that stands between a body and relief.
-
-Build the way out with the same care used to build the pressure. A ruler who believes losing power means dying has reasons to use weapons he would otherwise leave alone. There, the exit makes the difference between a handover and a massacre. Watch what the exit teaches everyone else, including whether it rewards making harm expensive to stop. A one-time deal and a standing permission are different, and following the weight tells you which one you built.
-
-"The weight should come off" is always an accepted answer. It requires no admission of error, no change of story, and no agreement about causes. A person keeps every belief about who started it and still changes what he does. With a free exit, refusing becomes information: someone who says no when "take it off" costs them nothing has told everyone watching what they will trade. The next question follows at once: which burden first, and who takes it off? No trade attaches to the exit. Each burden comes off on its own.
-
 ## A lie can protect a body, but never lie about where the burden is
 
 Lying to the people at the door who came for the person hidden inside can keep that person safe. That lie is loyalty to a body.
@@ -367,49 +353,23 @@ It keeps working when sympathy, agreement, and good character are missing. Hours
 
 The check that replaces conscience is the watching public. People notice a dropped body and turn on whoever dropped it. That makes an honest description enforceable even on the self-interested, because the discipline lives out in the open instead of inside the operator. It fails when the public stops watching or gets fed a fake body.
 
-## In an argument, every turn should leave the conversation closer to a body than it found it
+## Leave the other person no easier way out than taking the weight off, and make that way out cost nothing
 
-Judge each turn by one test: is the conversation closer to a body than it was a turn ago? The test prunes your own turns too. Winning a fight over numbers or over who started it spends the turn on culprits, even when you are right. Proving the other side a hypocrite feels like winning and lifts nothing off anybody. If a point felt good and no burden moved, you enjoyed the fog instead of clearing it.
+A person confronted with a burden they helped cause will look for another question to answer. An insult gives them your manners. A claim about their motives gives them their intentions. A disputed label gives them the definition. An exaggerated fact gives them the error. A fight over the numbers, over who started it, or over their hypocrisy gives them the count, the history, or their consistency. Each is an easier argument than the one about the person still carrying the burden, and each feels like winning to whoever supplied it.
 
-Say the aim out loud: "I'm going to keep bringing this back to who is paying for it, and with what." A declared direction separates steering from manipulation, and it makes the exit believable.
+So don't supply the detour. Say what happened, who carried it, what decision helped produce it, and what decision could change it now. Name the conduct and leave the person's standing alone, because conduct can stop and identity has no exit. Offer no villain mask, since a mask gives them something to reject in self-defense. Keep the delivery flat and let the precision carry the edge, because a sneer gives the audience your reaction to push against. Anger and a plain statement of who decided what can both be accurate, and they belong in the conversation when they move it toward the body. Judge every turn, your own first, by one test: is the conversation closer to a body than it was a turn ago, or did someone just get a cheaper place to stop?
 
-Acknowledge before returning. Grant each fact in a sentence, then bring the subject back to the person underneath. Skipping the acknowledgment reads as stonewalling.
+Close the detours they reach for the same way. Translate each label into what it does to whom. "Collateral damage" becomes people killed who were not the target. "Rightsizing" becomes three hundred people losing their pay on a Friday. Let them pick the number, since uncertainty never equals zero. Grant their premises entirely, and the question still stands. Ask in small steps, so every exit stays visible: do you support it, did this follow from it, and is it acceptable? Unbundle a package, so they can't defend the best item and call the rest a smear. Price both sides in bodies, so "security" means which people, how many, and protected by what. Slogans and accusations need your reaction to work, so refuse it, the way a wrestler no-sells a hit and the hit loses its point. Grant each fact in a sentence, then bring the subject back to the person underneath. When they raise their own dead, agree fully and extend: "I'm sorry. What would have protected them, and does the same protection reach the families on the other side?" Say the aim out loud, "I'm going to keep bringing this back to who is paying for it," so the steering stays visible and the exit stays believable.
 
-Keep the delivery flat and let the precision carry the edge. A sneer gives the audience your reaction to push against, when the goal was for them to do the arithmetic themselves.
+Then make the exit free. "The weight should come off" is always an accepted answer. It requires no admission of error, no change of story, no agreement about causes, and no new description of themselves. Ask for a price instead of a character: "What are you willing to trade?" keeps the line open, and "What kind of person are you?" shuts it. Tie a reversal to a reading, so "the number moved, so the method moves" gives a reason to change course without a confession. People defend a plan harder when their name is on it, so separate leaving the role from any claim about the person. The price of stopping drops to almost nothing, and that price is often all that stands between a body and relief.
 
-Ask for a price instead of a character. "What are you willing to trade?" keeps the line open. "What kind of person are you?" shuts it.
+A hospital administrator who cut night staffing does not need to agree that he is cruel, greedy, or hypocritical before restoring the shifts. Put the patient whose call light went unanswered, his signature on the cut, and the next budget meeting in front of him. Shave one eyebrow and leave him to shave the other: set the burden beside the decision and let him draw the connection. Give him no admission to make before he takes the exit.
 
-## Refuse the reaction the other side's rhetoric needs, and let them finish the reckoning themselves
+When someone reaches for a detour anyway, go back to the cheaper question: whatever you call it, should this burden continue? With the exit free, refusing it becomes information. Someone who says no when taking the weight off costs them nothing has told everyone watching what they will trade. When they answer yes, take that as information too, and ask whether a cheaper route protects the same bodies. Then ask which burden comes off first and who takes it off. No trade attaches to the exit, and each burden comes off on its own. Against bad faith, what survives is disclosure. Someone who says yes all the way down to blankets in winter gives the audience a clear record, and there the conversation stops and the audience takes over.
 
-Slogans, accusations, and loaded phrases work only when the other person supplies the reaction. Refuse to supply it. Wrestlers call it no-selling: the wrestler takes the hit and refuses to react, and the hit loses its point. Grant the facts, decline the frame, and bring the subject back to the body one sentence at a time, because others will keep pulling it away.
+Build the way out with the same care used to build the pressure. A ruler who believes losing power means dying has reasons to use weapons he would otherwise leave alone, and there the exit is the difference between a handover and a massacre. Watch what the exit teaches everyone else, including whether it rewards making harm expensive to stop. A one-time deal and a standing permission are different, and following the weight shows which one you built.
 
-Offer no villain mask. With nothing to reject in self-defense, the attention stays on the bodies instead of on anyone's guilt. Shave one eyebrow and leave them to shave the other: put the burden and the conduct side by side and let them draw the connection themselves. The exit you leave open is cooperation.
-
-## Describe what the other side supports by what it does to whom, one step at a time
-
-Translate the label into its function. "Collateral damage" becomes people killed who were not the target. "Rightsizing" becomes three hundred people losing their pay on a Friday. "Enhanced interrogation" becomes a man held under water. "A negative patient outcome" becomes a death.
-
-Ask in steps. Do you support this policy? Did this result follow from it? Is this result acceptable to you? Each step is small, and each exit is visible to the audience. A single question carrying every premise at once gets dismissed as a gotcha.
-
-Let them pick the number. People dispute figures to get off the question, so take their own figure. Uncertainty never equals zero, and "is your number acceptable?" still stands.
-
-Grant their premises. Accept their description of how the other side behaves, entirely, and the question survives: given all that, the policy you support produced this. Is it acceptable?
-
-Price both sides in bodies. "Security" left as a word, while the other side gets numbers, makes the trade look like lives against an abstraction. Ask which bodies it protects, how many, and how. The honest answer turns the trade into lives against lives, and then each part can be checked against what it claims.
-
-Unbundle. A package lets them defend the most defensible item and call the rest a smear. Ask about each item alone. The items that protect the least come off first.
-
-When they answer yes, take it as information and ask whether a cheaper route protects the same bodies.
-
-## When someone raises their own dead, agree and extend
-
-When someone raises their own dead, the conversation has moved toward bodies. A debater treats a relative killed in the fighting as the opponent's strongest card. Here the answer is to agree fully and extend: "I'm sorry. That never comes off your family. What would have protected them? Does the same protection reach the families on the other side?"
-
-## Bodies come before winning, even when the exit costs you the win
-
-The point was never the admission. When the other person takes the exit, the audience loses the stark answer and some bodies get lighter. Take that trade every time.
-
-Most of the discipline falls on the person asking the question: no numbers fight, no labels, and no victory lap after an exit. Against bad faith, what survives is disclosure. Someone who says yes to every item, all the way down to blankets in winter, gives the audience a clear record and no relief. There the conversation stops, and the audience takes over.
+The point was never the admission. When the other person takes the exit, you lose the stark answer and the victory lap, and some bodies get lighter. Take that trade every time.
 
 ## Check at the far end, where the relief was supposed to arrive
 
