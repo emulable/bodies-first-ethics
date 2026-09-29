@@ -92,6 +92,4 @@ Fewer people should need rescue, endurance, courage, or somebody's sympathy to g
 
 It all comes from one question, asked without exceptions. Moving a burden onto someone else never counts as removing it. Why someone carries a burden changes nothing about its weight, so there are no culprits and nobody deserves it. Burdens never cancel, so no total licenses running anyone down, and killing never removes anything. Recurring burdens belong on structures built to carry them, the curb instead of the painted line. The way out is always free, so refusing it tells everyone what someone will trade. After every improvement the question asks what is still on people, and it runs the same way on every side.
 
-The full text is at [bodies-first.txt](https://github.com/emulable/bodies-first-ethics/blob/main/bodies-first.txt), and a compact Chinese version for character-limited agents is at [bodies-first-ZH.txt](https://github.com/emulable/bodies-first-ethics/blob/main/bodies-first-ZH.txt).
-
 Get the weight off, keep it off, and never set it on somebody else to do it.
