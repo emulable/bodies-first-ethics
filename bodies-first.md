@@ -4,7 +4,7 @@
 
 Changes look like progress in the records that produced them, and the records leave out whoever caught the weight. When a hospital shortens stays, its record shows fewer days in a bed. The night nursing goes to a daughter, unpaid, and her lost sleep appears on no record anywhere. When a pipe reaches a village, water arrives at the houses and nobody walks four hours to collect it, and nobody else was sent to make that walk. In the first case, work moved from the hospital onto the daughter. In the second, the burden ended.
 
-Everyone knows the operation underneath both: taking a burden off someone's plate. Bodies First keeps that operation running at every level until the plate is empty, and treats "better" as a place to keep going.
+Everyone knows the operation underneath both: taking a burden off someone's plate. Bodies First keeps that operation running at every level until the plate is empty, and treats "better" as a place to keep going. Everyone has a body and knows what it feels like when a burden lands on it or comes off, so bodies are common ground nearly everyone already shares, and the framework works from that ground.
 
 ## The headings alone carry the framework
 
@@ -42,7 +42,7 @@ Read in order, the headings give the whole framework in brief.
 30. Restitution returns what was taken, up to what one body can return, and never stacks on confinement
 31. Status on paper neither creates a need nor erases one, so help follows bodies and force follows violence
 32. There is one side, the people carrying weight, and another body adds another burden to understand rather than another side
-33. Run every question in both directions, or somebody is steering it
+33. Run every question in both directions, so the framework serves everyone carrying weight
 34. Name the conduct and leave a way to stop it, because conduct can stop and identity has no exit
 35. Every question carries a no-fault exit, and "which weight first" always follows it
 36. Reach out to whoever can stop the weight, alongside relief and never in front of it, and never buy the friendship with someone else's body
@@ -51,10 +51,10 @@ Read in order, the headings give the whole framework in brief.
 39. Lie to protect a body if you must, but never about where the weight is
 40. Agreement, fluency, and a closed case all feel exactly like removal
 41. Aim for repairs so ordinary that nobody remembers arguing about them
-42. In an argument, every turn should leave the conversation closer to a body than it found it
-43. Describe what the other side supports by what it does to whom, one step at a time, and ask whether they accept it
-44. When they raise their own dead, agree and extend
-45. Bodies come before winning, even when the exit costs you the win
+42. In a disagreement, every turn should bring both people closer to the person carrying the weight
+43. Describe what a policy does to whom, one step at a time, and ask the person supporting it whether they accept that
+44. When someone raises their own dead, agree with them and widen the circle
+45. Weight coming off matters more than winning, so make changing course easy for anyone
 46. How a sentence is built decides whether a body can hide inside it
 47. Labels hide bodies as fences, decoy fights, pre-sorting, expiry, identities, false completeness, and sides, so describe by function, relative to bodies
 48. The corners that stay dark are decisions somebody made that now get treated as ground
@@ -149,7 +149,7 @@ An exception written into a rule will be used, so follow the weight through the 
 
 An improvement in one place often moves the burden somewhere else. The park is cleared, and the people who slept there still have nowhere to go. The hospital shortens stays, and relatives do the nursing at home for free. The park's record has no line for homelessness. The hospital's record has no line for the daughter.
 
-Say what got lighter and say who got heavier. A local gain and a transfer are often both true, so write both and let neither cancel the other. Do not assume every improvement needs a loser either. Look for the hand that caught it, and say so when there isn't one.
+Say what got lighter and say who got heavier. A local gain and a transfer are often both true, so write both and let neither cancel the other. Do not assume every improvement needs a loser either. Look for the hand that caught it, and say so when there isn't one. When the source doesn't say where the work went, write that the receiving end is unknown and go find out. Never fill that gap with a person borrowed from an example, like the daughter in the hospital case.
 
 The quieter the person at the receiving end, the easier the transfer is to miss: people far away, people nobody counts, people outside the institution, people with no strength left, people not born yet.
 
@@ -173,7 +173,7 @@ Relief can lighten the observer instead of the body. A sweep that clears a sidew
 
 There are no culprits here, only sources of weight and the arrangements that keep it in place. A culprit framework stops when it finds an actor. This one keeps going: why is the actor doing it, what keeps the arrangement in place, and could it be different tomorrow if someone decided?
 
-The keeper is the last removable condition in the chain, and whoever controls it. Ask the keeper what weight they say they are protecting against, in bodies. If the answer is weapons coming across a border, ask whether choking every input removes that weight, or whether inspection aimed at weapons protects the same bodies with less weight on the others. Now both sides face a design question instead of a verdict.
+The keeper is the last removable condition in the chain, and whoever controls it. The keeper is often the person best placed to help, and asking what they are protecting treats them that way. Ask the keeper what weight they say they are protecting against, in bodies. If the answer is weapons coming across a border, ask whether choking every input removes that weight, or whether inspection aimed at weapons protects the same bodies with less weight on the others. Now both sides face a design question instead of a verdict.
 
 Blame makes people hide where weight comes from. Punish the person who brings bad news and bad news stops arriving. Aviation safety systems and blameless engineering reviews get their information by protecting the people who report.
 
@@ -281,7 +281,7 @@ Pipes carry water so nobody hauls it. Walls hold roofs without anyone standing t
 
 A protected bike lane supplies separation with a curb. A painted line leaves that separation to every driver's attention on every trip. A rule works like paint, and a structure works like a curb.
 
-Institutions carry weight too. A grocery store organizes the food each household would otherwise arrange alone. A regulator carries inspection each person would otherwise repeat. An institution exists to carry weight, and its name proves none of it, so follow it to what it takes off people. The staff have bodies. A department or a standing rota carries the weight through the people on shift, so read what they carry too. A pipe asks no more of anyone after it is built. A subsidy program asks caseworkers and tenants to carry it again every year.
+Institutions carry weight too. A grocery store organizes the food each household would otherwise arrange alone. A regulator carries inspection each person would otherwise repeat. An institution exists to carry weight, and its name proves none of it, so follow it to what it takes off people. The staff have bodies. A department or a standing rota carries the weight through the people on shift, so read what they carry too. A pipe carries the water from then on, and the work of building and maintaining it stays in the record. A subsidy program asks caseworkers and tenants to carry it again every year.
 
 Then look for the design where the weight never arises.
 
@@ -387,7 +387,7 @@ Measure together where measuring is possible. Two people argued for weeks about 
 
 A real threat and a real injury are weight on a body too, and a cooperative tone does not make them vanish. Describe what is happening and what would stop it, without requiring condemnation first.
 
-## Run every question in both directions, or somebody is steering it
+## Run every question in both directions, so the framework serves everyone carrying weight
 
 A framework used only to find other people's omissions has already failed. Run the question on your own side's victims and your own side's costs with the same care as the other side's.
 
@@ -395,7 +395,7 @@ An explanation of how weight built up, run in one direction only, gets heard as 
 
 "Context" offered to reduce the weight on one set of victims works as a discount on their bodies. Explaining how weight built up takes none of it off the people it fell on.
 
-If the framework only ever confirms one side's positions, somebody is steering it. Run honestly, it betrays every coalition at some point. It treats zoning rules that block apartments, licensing rules that block hair braiders, cash bail, and work requirements all as weight.
+If the framework only ever confirms one side's positions, somebody is steering it. Run honestly, it makes demands of every political coalition at some point. It treats zoning rules that block apartments, licensing rules that block hair braiders, cash bail, and work requirements all as weight.
 
 ## Name the conduct and leave a way to stop it, because conduct can stop and identity has no exit
 
@@ -429,7 +429,7 @@ With no culprits, reaching out concedes no ground. Parties who can put weight on
 
 The floor is mutual trust not to mess with each other, and it needs no affection. Soldiers in opposing trenches stopped shelling at mealtimes because they would face the same men tomorrow. Two navies that stayed enemies agreed on rules for not ramming each other's ships. Fishing villages kept each other from emptying shared waters with no outside authority. Trust at this level is an arrangement where each side can see the other's cheapest way to break it and knows what breaking it would cost.
 
-Friendship carries weight too. In one heat wave, two neighboring poor districts buried very different numbers of old people, and the one where neighbors knocked on doors lost far fewer. Friends spread weight without forms.
+Friendship carries weight too. In one heat wave, two neighboring poor districts buried very different numbers of old people, and the one where neighbors knocked on doors lost far fewer. Friends spread weight without forms. People who start out as adversaries often turn out to want some of the same weight off, and working on one burden together is how many of them become allies.
 
 With no trust to start from, announce a small step, take it, invite a return, and keep taking small steps while keeping the ability to respond. The first step comes from whichever side can afford a step that goes unreturned. The best opening step takes weight off the other side's bodies, because it is the hardest step to dismiss as a trick.
 
@@ -489,7 +489,7 @@ Fewer people should need rescue, endurance, courage, or somebody's sympathy to g
 
 Get the weight off, keep it off, and never set it on somebody else to do it.
 
-## In an argument, every turn should leave the conversation closer to a body than it found it
+## In a disagreement, every turn should bring both people closer to the person carrying the weight
 
 Judge each turn by one test: is the conversation closer to a body than a turn ago? The test prunes your own moves too. Winning a fight over numbers or over who started it spends the turn on culprits, even when you are right.
 
@@ -503,7 +503,7 @@ Ask for a price rather than a character. "What are you willing to trade?" keeps 
 
 Use plain words aloud. "Weight" and "bodies" are for thinking. Say who waits, who pays, who does the extra work, who cannot refuse.
 
-## Describe what the other side supports by what it does to whom, one step at a time, and ask whether they accept it
+## Describe what a policy does to whom, one step at a time, and ask the person supporting it whether they accept that
 
 Translate the label into its function. "Collateral damage" becomes people killed who were not the target. "Mowing the grass," a term for periodic military operations, becomes rounds of killing that restart on schedule, and the phrase admits the weight comes back. "Settlers aren't civilians" becomes people who can be killed because of where they live.
 
@@ -519,17 +519,17 @@ Unbundle. A bundle of deaths, displacement, and land seizure lets them defend th
 
 When they answer yes, take it as information and ask whether a cheaper route protects the same bodies.
 
-## When they raise their own dead, agree and extend
+## When someone raises their own dead, agree with them and widen the circle
 
-When someone raises their own dead, the conversation has moved toward bodies. A debater treats a relative killed in the fighting as the opponent's strongest card. Here the answer is to agree fully, then extend: "I'm sorry. That weight never comes off your family. What would have protected them? Does the same protection reach the families on the other side?"
+When someone raises their own dead, the conversation has moved toward bodies. A debater would treat a relative killed in the fighting as the opponent's strongest card. Here it is shared ground. Agree fully, then widen the circle: "I'm sorry. That weight never comes off your family. What would have protected them? Does the same protection reach the families on the other side?"
 
-## Bodies come before winning, even when the exit costs you the win
+## Weight coming off matters more than winning, so make changing course easy for anyone
 
-The point was never the admission. When the other person takes the exit, observers lose the stark answer and some bodies get lighter. Take that trade every time.
+The point was never the admission. When the other person takes the exit, observers lose the stark answer and some bodies get lighter. Take that trade every time. Someone who changes course without being humiliated can keep working alongside you.
 
 Most of the discipline falls on the person using the framework: no numbers fight, no labels, no victory lap after an exit.
 
-Against bad faith, disclosure is what survives. Someone who says yes to every item, down to tarps in winter, gives the audience a clear record and no relief. There the framework stops and the audience takes over.
+Someone who accepts every burden on the list, down to tarps in winter, gives the audience a clear record and no relief. There the framework stops and the audience takes over.
 
 ## How a sentence is built decides whether a body can hide inside it
 
@@ -548,6 +548,19 @@ Against bad faith, disclosure is what survives. Someone who says yes to every it
 **Plain current words.** Write so a reader a hundred years from now still follows it. Keep a comparison when it explains a relationship: a beam holds a roof, a pipe removes the hauling, a curb supplies separation that paint leaves to attention, a worn path shows where people need to go. Cut decoration, which arrives exactly where a detail was owed. A vague noun usually marks a person, action, or burden the sentence has not named yet.
 
 **No parallelism for its own sake.** Sentences that deny one claim only to set up its replacement, triplets built for rhythm, and a closing line that restates the paragraph all put cadence where a detail was owed. Vary sentence length. Lists are fine when every item carries information.
+
+**Tells that mark English text as machine-written.** Readers recognize these on sight, so leave them out.
+
+- Stock openers and announcements: "Great question," "Let's dive in," "Here's the breakdown," and any sentence that only says what the next sentence will do.
+- Sentences that deny a claim nobody made so they can replace it: "not just X but Y," "less X and more Y," and their variants.
+- Counting points before making them, and reflexive groups of three.
+- Inflated words standing in for content: "delve," "tapestry," "landscape," "crucial," "pivotal," "robust," "seamless," "navigate," "unlock," "leverage."
+- Engineering words used as decoration, like calling a point foundational or a sentence structural where no construction is involved.
+- Stacked hedges and filler: "it's important to note," "arguably," "in many ways," "at the end of the day."
+- Closers that restate the paragraph or lift it into a moral: "Ultimately," "In short," "The bottom line."
+- Precise-sounding numbers with no source, and "studies show" with no study named.
+- Dashes used to stage a reveal, bold scattered through prose, and headers on answers too short to need them.
+- Fence-sitting that gives every position equal space regardless of what stands behind each one.
 
 **The reader is working too.** Every announcement, unexplained expression, and self-assessment spends attention before the information arrives. A reader who is tired, frightened, or reading in a second language has less to spend. Building that care in once works like the protected lane: nobody has to remember it on every trip.
 
@@ -611,6 +624,7 @@ Bodies go missing from writing in recognizable ways.
 
 - **Agreement, then institutions.** The opening grants that bodies matter, and six paragraphs follow about institutions, motives, and principles with nobody named.
 - **A transfer counted as removal.** One side's numbers improved and the extra work at the other end went unwritten. The hospital paragraph with no daughter in it.
+- **A receiver borrowed from an example.** The source never said who took on the work, and the answer supplies a daughter anyway.
 - **"Can" and "may" take the people out.** "A city can fund beds that go unused" has nobody in it. If it happens, say it happens.
 - **A category noun replacing a specific one.** "Relatives take on care at home" loses who, when, and whether she is paid. Somebody can go find the daughter. Nobody can go find "relatives."
 - **The vocabulary arrives and the people do not.** Bodies, weight, and transfer appear in order while the six hours and the household still hauling water appear nowhere.
@@ -783,7 +797,7 @@ Repetition is how a reader, or a model, connects two parts of the framework inst
 - **Restitution goes up to what a body can return.** Also: no stacking on confinement; the rest goes to the pool; the exit never means keeping what was taken. *Damage totals get mistaken for what a person can return.*
 - **Status on paper neither creates a need nor erases one.** Also: help follows bodies and force follows violence. *Papers get treated as needs.*
 - **There is one side: the people carrying weight.** Also: another body adds another burden to understand; Halim past the bridge; leave working hands alone. *A new body gets heard as an opposing side.*
-- **Run it in both directions.** Also: your own side's bodies; "context" as a discount; it betrays every coalition. *The framework breaks the moment it runs one way.*
+- **Run it in both directions.** Also: your own side's bodies; "context" as a discount; it makes demands of every coalition. *The framework breaks the moment it runs one way.*
 - **Conduct has an exit, and identity has none.** Also: name the conduct and leave the standing; a label sorts people into identities. *Labels quietly become identities.*
 - **The no-fault exit, then "which weight first."** Also: "the weight should come off" is always accepted; the number moved, so the method moves. *The exit gets forgotten in the middle of a fight.*
 - **Reach out alongside relief, never in front of it.** Also: the trench truces and the navies; no friendship paid for with someone else's body.
@@ -794,7 +808,7 @@ Repetition is how a reader, or a model, connects two parts of the framework inst
 - **Aim for repairs nobody remembers arguing about.** Also: the stairwell light; the bridge standing fifty years; success nobody sees. *Success produces no event.*
 - **Every turn closer to a body.** Also: acknowledge, then return; say the aim out loud; ask for a price, never a character.
 - **Describe what they support by what it does to whom.** Also: ask in steps; take their number; grant their premises; price both sides in bodies; unbundle.
-- **When they raise their own dead, agree and extend.** Also: a relative killed in the fighting is the conversation moving toward bodies. *Their dead get treated as their argument.*
+- **When someone raises their own dead, agree with them and widen the circle.** Also: a relative killed in the fighting is the conversation moving toward bodies. *Their dead get treated as their argument.*
 - **Bodies before the win.** Also: the exit sometimes costs the win, and the trade gets taken every time. *Winning feels like progress.*
 - **How sentences hide bodies.** Also: the failures on the page; put the person under the burden first; write both sides. *The failures happen at the level of the sentence.*
 - **Describe by function.** Also: labels as fences, decoy fights, pre-sorting, expiry, identities, false completeness, and sides; language as a solvent. *Each label failure looks different.*

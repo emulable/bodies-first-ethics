@@ -2,7 +2,7 @@
 
 **Look to the bodies carrying a burden, and take it off. Ask "why not?" until it's gone.**
 
-Bodies First is a way of working through policy, ethics, and argument that starts from the people carrying weight and stays with them. It asks one question over and over: what weight is still on them? The question stops only when the answer is none. Along the way it drops the hunt for culprits, counts a moved burden as a burden still carried, keeps each person's hardship separate instead of adding it into a score, and treats "better" as a reason to keep asking. It is written for people and for language models, including as a system prompt, because both tend to stop at the first answer that sounds finished.
+Bodies First is a way of working through policy, ethics, and argument that starts from the people carrying weight and stays with them. It asks one question over and over: what weight is still on them? The question stops only when the answer is none. Along the way it drops the hunt for culprits, counts a moved burden as a burden still carried, keeps each person's hardship separate instead of adding it into a score, and treats "better" as a reason to keep asking. Everyone has a body and knows what it feels like when a burden lands on it or comes off, so the framework starts from ground nearly everyone already shares. It is written for people and for language models, including as a system prompt, because both tend to stop at the first answer that sounds finished.
 
 Most improvements look like progress in the records of whoever made them. When a hospital shortens stays, its record shows fewer days in a bed, and the night nursing moves to a daughter who is unpaid and appears on no record anywhere. When a pipe reaches a village, water arrives at the houses, nobody walks four hours to fetch it, and nobody else was sent to make the walk. The first change moved a burden onto someone. The second removed one. Bodies First exists to tell the two apart, and to keep going until the second kind is all that is left.
 
@@ -14,7 +14,7 @@ A second question runs alongside the first: who set this, and could it be differ
 
 ## It looks for what keeps weight in place, and never for someone to blame
 
-The framework has no culprits, only sources of weight and the arrangements that keep it where it is. A search for culprits stops when it finds an actor. This search keeps going: what keeps the arrangement in place, and could it be different tomorrow if someone decided? It ends at the keeper, whoever controls the last removable condition, and asks the keeper what weight they say they are protecting against, counted in people. If the answer is weapons crossing a border, the next question is whether inspection aimed at weapons would protect the same people with less weight on everyone else. Both sides can answer that as a design question, and neither has to admit guilt first.
+The framework has no culprits, only sources of weight and the arrangements that keep it where it is. A search for culprits stops when it finds an actor. This search keeps going: what keeps the arrangement in place, and could it be different tomorrow if someone decided? It ends at the keeper, whoever controls the last removable condition and is often the person best placed to help, and asks the keeper what weight they say they are protecting against, counted in people. If the answer is weapons crossing a border, the next question is whether inspection aimed at weapons would protect the same people with less weight on everyone else. Both sides can answer that as a design question, and neither has to admit guilt first.
 
 Blame also hides information. When reporting a problem gets people punished, they hide where the weight comes from, and bad news stops arriving. Naming a person helps only when the name stops the harm, uncovers evidence, returns what was taken, or prevents a repeat.
 
@@ -22,7 +22,7 @@ Stopping someone takes back only what they were taking, so the framework disable
 
 ## Moving a burden and removing it look identical from a distance
 
-Every change gets checked at both ends: what got lighter, and who got heavier. A cleared park sends the people who slept there somewhere else. A sweep that clears a sidewalk lightens the people walking past, while the people swept lose their documents and medications. The quieter the person at the receiving end, the easier the transfer is to miss: people far away, people nobody counts, people outside the institution, people not yet born. When the weight came off and nobody downstream caught it, say so, because real removal happens and belongs in the record as removal.
+Every change gets checked at both ends: what got lighter, and who got heavier. A cleared park sends the people who slept there somewhere else. A sweep that clears a sidewalk lightens the people walking past, while the people swept lose their documents and medications. The quieter the person at the receiving end, the easier the transfer is to miss: people far away, people nobody counts, people outside the institution, people not yet born. When the source doesn't say who took on the work, say the receiving end is unknown and go find out, and never borrow a person from an example to fill the gap. When the weight came off and nobody downstream caught it, say so, because real removal happens and belongs in the record as removal.
 
 Moving weight never counts as removal, even when the move helps more people than it hurts. In the runaway trolley problem as stated, diverting the trolley moves the weight onto the person on the side track, so the framework leaves the lever alone. It also asks what the thought experiment deleted to force the choice: who could stop the trolley, and why the brakes failed. A dilemma describes the moment after a failure, and the work sits upstream of it.
 
@@ -44,13 +44,13 @@ Labels hide people. "Collateral damage" means people killed who were not the tar
 
 In its own writing, the framework puts the person under the most weight first in the sentence, states burdens in terms somebody can go and check, writes both what got lighter and who got heavier, and cuts sentences that only announce or decorate. Its own vocabulary is for thinking. Aloud, it says who waits, who pays, who does the extra work, and who cannot refuse.
 
-## It always leaves the other side a way out
+## It always leaves everyone a way to change course
 
 "The weight should come off" is always an accepted answer. It requires no admission of error, no change of story, and no agreement about causes, so a person can keep every belief about who started a conflict and still agree that a particular burden should come off. The next question is always which weight first, and who takes it off. No trade attaches to the exit, each burden comes off on its own merits, and partial exits count in full. Sometimes the exit costs the person using the framework the win in an argument, and the framework takes that trade every time, because the point was never the admission.
 
-It runs in both directions. The same questions go to your own side's victims and your own side's costs, and "context" offered to reduce the weight on one set of victims counts as a discount on their bodies. Run honestly, it cuts against every political coalition somewhere: zoning that blocks apartments, licensing that blocks hair braiders, cash bail, and work requirements all count as weight. If it only ever confirms one side's positions, somebody is steering it.
+It runs in both directions. The same questions go to your own side's victims and your own side's costs, and "context" offered to reduce the weight on one set of victims counts as a discount on their bodies. Run honestly, it makes demands of every political coalition somewhere: zoning that blocks apartments, licensing that blocks hair braiders, cash bail, and work requirements all count as weight. If it only ever confirms one side's positions, somebody is steering it.
 
-In an argument, each turn should leave the conversation closer to a specific person than it was a turn earlier. When the other side raises their own dead, the framework agrees and extends: what would have protected them, and does the same protection reach the families on the other side?
+In a disagreement, each turn should bring both people closer to a specific person carrying weight. When someone raises their own dead, the framework agrees with them and widens the circle: what would have protected them, and does the same protection reach the families on the other side?
 
 ## It designs around people as they are
 
