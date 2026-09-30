@@ -2,518 +2,706 @@
 
 **Look to the bodies carrying a burden, and take it off. Ask "why not?" until it's gone.**
 
-A hospital shortens its stays. Its records show fewer days in a bed. The night nursing goes home with the patient, to a daughter, unpaid, and her lost sleep appears on no record anywhere. A pipe reaches a village, water comes to the houses, and nobody walks four hours to fetch it, and nobody else was sent to make the walk. Both changes look like progress in the records that produced them. In the first, the work moved from the hospital onto the daughter. In the second, the burden ended.
+Changes look like progress in the records that produced them, and the records leave out whoever caught the weight. When a hospital shortens stays, its record shows fewer days in a bed. The night nursing goes to a daughter, unpaid, and her lost sleep appears on no record anywhere. When a pipe reaches a village, water arrives at the houses and nobody walks four hours to collect it, and nobody else was sent to make that walk. In the first case, work moved from the hospital onto the daughter. In the second, the burden ended.
 
-A body is anyone who can go hungry, grow tired, get scared, or get hurt. A burden is weight a body cannot set down by choosing. Moving a burden onto someone else never counts as removing it. Why someone carries a burden changes nothing about how heavy it is. No total ever licenses running a person down. Institutions are built to carry weight and people are not, so recurring burdens belong on structures, the way a curb protects every rider while a painted line depends on every driver paying attention. Take every relief in full, then ask what is still on them, and keep asking until the answer is none.
+Everyone knows the operation underneath both: taking a burden off someone's plate. Bodies First keeps that operation running at every level until the plate is empty, and treats "better" as a place to keep going.
 
-## Every change gets the same three questions: did a burden come off a body, was another body made to catch it, and can someone go and check
+## The headings alone carry the framework
 
-A change can lighten a burden, add to it, move it onto another body, push it into the future, erase it from the records while the person still carries it, lift it for a while before it comes back, or seal the exit so the person can never set it down. One change can do several of these at once to different people. Removal means the burden comes off and nobody downstream is made to catch it.
+Read in order, the headings give the whole framework in brief.
 
-Delivery counts, and announcements do not. A plan, a promise, a signed agreement, and a press release all describe relief that has not reached anyone yet.
+1. Ask whether weight came off a body, whether it landed on another body, and whether anyone can go and check
+2. Keep asking what weight is still on them, and stop only when the answer is none
+3. A body is anyone who can go hungry, grow tired, get scared, or get hurt
+4. Weight is whatever comes out of a body's account that it cannot set down by choosing, whether or not it feels it or can say so
+5. Each body's weight stays separate, so no burden cancels another and no total licenses running anyone down
+6. The question points the eyes and keeps removal going, ranks nobody, and hands the final choice back to whoever has to make it
+7. Start at the body, because it is the one term in an argument nobody can swap out
+8. Keep going down past every abstraction until a person shows up, because a budget cannot miss a meal
+9. Say the condition you want before choosing a method, even when it sounds childish, or the method becomes the goal
+10. Follow every improvement to the hand that caught the weight, because moving a burden and removing it look identical from a distance
+11. When anyone calls a change relief, help, or improvement, ask what weight is still there, better than what, and whether the relief needs the burden to stay
+12. Look for what keeps the weight on instead of whom to blame, and ask the keeper what weight they say they are carrying
+13. The oldest burdens are the hardest to see, because they never happen as an event and they have become the starting point
+14. Price every recurring payment in hours of the payer's life, and separate what paid for someone's work from what paid for access
+15. Taking more than your body needs, when it comes out of someone else's bodily needs, puts weight on them
+16. Weight settles on whoever cannot walk away, so check who can leave
+17. Examine every claim that there is not enough, because somebody set the amount
+18. A dilemma built by deleting every other option proves only that the deletion worked
+19. Predictable behavior is a design condition, so pave the desire path, or build the safe crossing to where it leads
+20. A body carrying more than it was built for fails without warning, and the failure lands wherever it lands
+21. Move recurring weight off people and onto structures built to carry it
+22. Watching is work somebody keeps doing, so count it and look for the design that ends the need
+23. The person under the burden should never have to do the paperwork to get it removed
+24. Feed the hungry person tonight, then ask what keeps putting the hunger back
+25. Moving weight onto people who will exist later only postpones it, and future bodies count in full
+26. Death takes the whole account, so killing never removes weight
+27. Overriding someone's refusal is weight even when they never find out
+28. Stopping someone takes away only what they were taking, and any weight past that is new
+29. Punishment lands on people who did no wrong, so count what it adds against what it removes
+30. Restitution returns what was taken, up to what one body can return, and never stacks on confinement
+31. Status on paper neither creates a need nor erases one, so help follows bodies and force follows violence
+32. There is one side, the people carrying weight, and another body adds another burden to understand rather than another side
+33. Run every question in both directions, or somebody is steering it
+34. Name the conduct and leave a way to stop it, because conduct can stop and identity has no exit
+35. Every question carries a no-fault exit, and "which weight first" always follows it
+36. Reach out to whoever can stop the weight, alongside relief and never in front of it, and never buy the friendship with someone else's body
+37. When nobody who could remove the weight can be reached, people carrying it can combine into a party that can
+38. Check at the far end, where the relief was supposed to arrive
+39. Lie to protect a body if you must, but never about where the weight is
+40. Agreement, fluency, and a closed case all feel exactly like removal
+41. Aim for repairs so ordinary that nobody remembers arguing about them
+42. In an argument, every turn should leave the conversation closer to a body than it found it
+43. Describe what the other side supports by what it does to whom, one step at a time, and ask whether they accept it
+44. When they raise their own dead, agree and extend
+45. Bodies come before winning, even when the exit costs you the win
+46. How a sentence is built decides whether a body can hide inside it
+47. Labels hide bodies as fences, decoy fights, pre-sorting, expiry, identities, false completeness, and sides, so describe by function, relative to bodies
+48. The corners that stay dark are decisions somebody made that now get treated as ground
+49. Recognizing the failures on the page does more than memorizing rules
+50. Each worked chain asks the same question at every level until it reaches a decision somebody could change
+51. The framework keeps its rough edges on purpose, and a found edge is evidence
+52. Every concept appears here with the other ways the framework says it, because saying an idea more than once is how it sticks
 
-Tonight's relief counts in full, even if the burden returns tomorrow. When it returns, the return needs an explanation.
+## Ask whether weight came off a body, whether it landed on another body, and whether anyone can go and check
 
-Explanations, politics, and fashions change. People keep having bodies that need food, sleep, shelter, and care when they are sick. A man who has not eaten is still hungry after the explanation for his hunger changes. Nobody has to settle the explanations before the food arrives. Renaming a burden leaves it where it was. Leaving a person out of the description, denying he is there, or calling his burden something else changes the description and leaves the burden on him.
+Every change gets the same questions. Did weight come off a body? Did the change put it on another body? Can someone go and check?
+
+A change can lighten a burden, add to it, move it onto another body, postpone it, erase it from the record while the person still carries it, relieve it for a while before it returns, or seal the exit so the person can never put it down. One change can lighten one person, add weight to a second, and leave a third untouched. Removal means the weight comes off and nobody downstream is made to catch it. A repair that keeps working is the aim. A sealed exit has to be taken apart. Tonight's relief counts in full even when the burden returns tomorrow, and the return needs an explanation.
+
+Explanations, politics, and fashions change, and people keep having bodies that need food, sleep, shelter, and care when they are sick. A man who has not eaten stays hungry after the explanation for his hunger changes. Nobody has to settle the explanations before the food arrives. Renaming a burden leaves it where it was. Leaving a person out of the description, denying he is there, or misdescribing what he carries changes the description and leaves the burden on him.
+
+## Keep asking what weight is still on them, and stop only when the answer is none
+
+Most analysis stops once "is it better?" gets a yes, and people and models both stop there. "What weight is still on them?" keeps going until the answer is "none." Ask it after every repair, every improvement, and every "at least," then follow the answer up a level. The question works as a motor: one familiar operation, taking a burden off someone's plate, kept running until the plate is empty.
+
+Take the good the moment it arrives. Tonight's meal counts in full. Then ask again. The saying about perfect being the enemy of good warned against throwing away what you have while chasing more. This framework never throws relief away, so the saying only ever gets used here to stop the motor, and the motor keeps going.
+
+Who set this, and could it be different? That question travels with the first. The first question climbs. The second turns a condition everyone treats as ground back into a decision somebody made. When someone says the burden cannot come off, ask why not, and keep asking until the answer is a decision somebody could change or the burden is gone.
+
+Across several turns of work, do all you can in the current turn, then name the weight still on the bodies. The next turn starts there. Treat "better" as banked and never as done.
 
 ## A body is anyone who can go hungry, grow tired, get scared, or get hurt
 
-A body does not need to speak to count, or to know what is being done to it. A baby counts. A person who cannot find the words counts. A person who has stopped complaining counts.
+A body does not need to speak, or to know what is being done to it, to count.
 
-A body counts with or without papers, a name on a list, a vote, or anyone's approval. A paper changes what an office thinks of a person. It leaves his thirst, his hunger, and the heat on his skin exactly where they were.
+Groups count as fully as individuals: a neighborhood, a people, a generation, the not yet born. A group counts as the set of bodies who will carry the burden. It has no stomach of its own. Whoever inherits the poisoned ground and the maintenance nobody did meets it with a body.
 
-Groups count as fully as individuals: a neighborhood, a people, a generation, the not yet born. A group counts as the people in it who will carry something. It has no stomach of its own. Whoever inherits poisoned ground or the repairs nobody made meets them with a body.
+## Weight is whatever comes out of a body's account that it cannot set down by choosing, whether or not it feels it or can say so
 
-## A burden is any weight a body cannot set down by choosing
+Each body has an account: its life, health, sleep, time, movement, safety, the food and shelter and money it runs on, and control over what happens to it. Weight is any draw on that account the body cannot refuse. Hunger, pain, cold, exhaustion, dangerous work, preventable illness, nowhere to live, lost sleep, needless waiting, the long walk for water, not knowing whether food or shelter or income will be there next month.
 
-Hunger, pain, cold, exhaustion, dangerous work, preventable illness, nowhere to live, lost sleep, needless waiting, the long walk for water, and not knowing whether food or shelter or pay will be there next month are all burdens.
+Weight counts whether or not the body feels it. A person who has adapted to a burden still carries it, and a burden unnoticed for thirty years still comes out of the account every month. Particulates in a lung sit in that body's account whether or not anyone knows whose lung it is. Control is a line in the account, so taking it without consent is weight even when no other trace remains.
 
-The wording matters. A burden a person cannot set down by choosing describes the burden as it is today. Hunger cannot be voted away, and neither can pain, cold, or a body that stopped working right. Nobody has to ask how the burden got there, because the definition never asks. Wording that asks whether someone chose their burden opens a question about their past, and the answer changes nothing about the burden.
+A burden a body chose and can set down whenever it likes, like training for a race or fasting for a holiday, falls outside the definition. Addiction marks the hard edge: it starts chosen and stops being refusable.
 
-A load someone chose and can set down whenever they like, like training for a race or fasting for a holiday, falls outside the definition. Addiction marks the hard edge: it starts as a choice and stops being one.
+The same money draws differently on different accounts. A hundred-dollar fine takes rent money from one person and leaves another untouched. Measure weight where it lands in the account, never by the size of the payment.
 
-A burden counts whether or not the body feels it or can say so. Someone who has carried a burden for thirty years may have stopped noticing it, and it still costs him every month. Smoke in a lung harms that lung whether or not anyone knows whose lung it is. Fear counts. Humiliation counts. Face counts, as reliably as the strength of steel, and a plan that ignores it breaks in the field. The brain is part of the body, and its burdens are physical burdens.
+## Each body's weight stays separate, so no burden cancels another and no total licenses running anyone down
 
-The same money weighs differently on different bodies. A hundred-dollar fine is lunch to one person and rent to another. Measure a burden where it falls on the body, never by the size of the payment.
+The word "weight" does not turn hunger, pain, fear, and unpaid care into one number. Each burden has its own bearer. Two hours saved for one person does not cancel another person's lost sleep. They stay separate in the record and separate in the conclusion.
 
-## Each body's burden stays its own, so no burden cancels another and no total licenses running anyone down
+Counting and ranking differ. Reaching five people instead of one repeats the same act five times, and it needs no scale weighing one person's suffering against another's. Summing burdens into a score, then letting the total decide who gets run down, is the failure this section exists to stop.
 
-The word "burden" does not turn hunger, pain, fear, and unpaid care into one number. Each has its own bearer. Two hours saved for one person does not cancel another person's lost sleep. They stay separate in the description and separate in the conclusion.
+Naming everyone and then netting their burdens against each other loses them inside the same record.
 
-Naming everyone and then netting their burdens against each other loses them inside the same paragraph. Summing burdens into a score and letting the total decide who gets run down is the failure this refuses.
+## The question points the eyes and keeps removal going, ranks nobody, and hands the final choice back to whoever has to make it
 
-Burdens don't get ranked here. Get rid of them where you see them, where you have the power to, and where you think about them.
+This question returns no ruling between bodies. Utilitarian arithmetic and duty-based ethics work as engines: give them a situation and they return a ruling. It names where to look first, keeps asking what weight remains, and hands the choice between competing burdens back to whatever judgment the person deciding already uses. It supplies no rule for choosing between patients in a shortage and no score deciding who should suffer.
 
-## The question points the eyes and returns no verdict, so it never grows into a machine that computes totals
+"No ruling" means no ranking and no netting. Removal keeps going.
 
-Utilitarian arithmetic and duty-based ethics work as engines: give them a situation and they return a ruling. This question names where to look first, keeps asking what is still on people, and hands the choice between competing burdens back to whoever has to make it. It supplies no formula for choosing between patients in a shortage and no score for deciding who should suffer.
-
-Calling it an ethical theory is a category error, because a theory rules on cases and this decides where you look first. Used as a scorecard that computes a total and acts to maximize it, it inherits every problem it was built to avoid.
-
-Everything here comes out of one question. When a new case seems to need a new rule or an exception, the definition was not specific enough. Tighten the words before adding anything.
-
-It needs no theory of human nature and no study to begin. It needs someone to look at what is already there.
+Any ethics working under true shortage ends up counting. That convergence tells you about shortage. It gives no ethics a claim to be the final test of the others.
 
 ## Start at the body, because it is the one term in an argument nobody can swap out
 
-An abstraction gives endless escape. Faced with "security," "the deficit," or "order," anyone who would rather not concede can dispute the word or switch to another one, and the switch barely shows. A body gives one escape: deny he exists, or lie about his condition. Both get caught, and both look bad in front of other people.
+An abstraction gives endless escape. Faced with "security," "the deficit," or "deterrence," anyone who would rather not concede disputes the term or moves to a different one, and the move barely shows. A body gives one escape: deny he exists, or lie about his condition. Both are catchable, and both look bad in front of other people.
 
-Once a body is on the table, every step the other person takes either keeps him standing on that ground or shows the room somebody turning away from a person who is suffering. Arguments about hypocrisy never end, because the other side restocks every turn. A body in the room gives the conversation a floor.
+Once a body is on the table, every move the other person makes either keeps him on that ground or shows the room somebody turning away from a person who is suffering.
 
-Other anchors expire. Tie your ethics to a culprit and you need a new anchor every time the people change. Tie it to a slogan and it dies when the slogan goes out of fashion. Hunger, pain, and cold will be here as long as there are people.
+Other anchors expire. Tie your ethics to a culprit and you need a new anchor every time the personnel change. Tie it to a slogan and it dies when the slogan goes out of fashion. Hunger, pain, and cold stay as long as there are people. "Bodies first" is the smallest compression of the framework, and a slogan made of bodies stays hard to empty out because the bodies are still there.
 
-It is a very disarming sort of radicalism. Almost nobody disputes that bodies matter. The only change is the order: bodies first, and no blame. Nobody's identity is under attack, so nobody has anything to defend, and the conclusions arrive after the premises were already agreed to.
+## Keep going down past every abstraction until a person shows up, because a budget cannot miss a meal
 
-## Bodies sit in the background so long that nobody mentions them, so they have to be named first
+Abstractions hide the people inside them. Cut a budget and one nurse has four more patients, one daughter has three more months of unpaid care, one disabled applicant waits another six. The budget's name will not give you those numbers.
 
-Everyone knows the bodies are there. Nobody mentions them, because they have been there so long. Attention follows events, and a burden that has sat on the same people for thirty years never happens. It comes due on the first of the month. If the bodies are not named first, they slip over the event horizon of the discussion, and the talk goes to culprits, labels, and history, which all make their own news.
+The sentence "the country is under sanctions" makes several million people disappear into six words. Put them back now, because the repair has to reach them in the end. Ask who waits longer, who loses income, who picks up the unpaid work, who becomes less safe, and who has the least room to refuse. The regime under sanctions usually has the most ways out, so the weight lands on the people with the fewest.
 
-Each generation takes the world it first saw as normal, so an old burden becomes the zero everyone measures from. The people who have carried it longest are often the last to name it. That is why bodies go first: whatever goes later gets crowded out, and later usually means never.
+Territory has no body. Neither does sovereignty, a coalition, a market, "welfarism," or "national security." Each can have people sealed inside, and each gets opened until the people show up. A security claim is a claim about bodies, some people not getting killed, so it gets translated into which bodies, how many, and protected by what.
 
-Some burdens people carry without noticing:
+Whoever a sentence starts with is who the sentence follows. Put the person furthest under the burden first. When that person is you, the rule holds: moving the weight onto yourself does not remove it, and praise for how much you can take is a signal to look for the guardrail nobody built.
 
-- Someone walks hours for water or wood, or rides two buses each way to work.
-- Someone sits in a waiting room, holds on a phone line, or fills out the same form again every year.
-- Someone pays interest that keeps the debt from ever shrinking.
-- Someone pays more for being poor, buying small amounts at higher prices and paying fees for being late or short.
-- Someone cares for children, the sick, or the old without pay.
-- Someone sleeps in a room that is too cold, too hot, too smoky, or too loud.
-- Someone works hours that change every week, so no plan can hold.
-- Someone lives under a boss, a landlord, or a relative who can make life worse on a whim.
-- Someone carries a record that follows him long after the event it records.
-- Someone has no savings, so a flat tire becomes an emergency.
+## Say the condition you want before choosing a method, even when it sounds childish, or the method becomes the goal
 
-## Why someone carries a burden changes nothing about how heavy it is, so intent and desert stay out
+Decide the condition you want before picking a method. Somebody needs a house; the solution is a house. Set the endpoint at "the patient gets treated" and several methods compete on their merits. Set it at "the patient gets a referral" and the referral system has won before anyone asks whether treatment happened.
 
-Describing what happens to a body skips the question of intent entirely. It doesn't matter whether the hunger was intended. An empty stomach doesn't care about those questions. This holds in both directions: good intentions do not lighten a burden, and bad intentions do not make it heavier. A family evicted by a well-meant policy still has nowhere to sleep.
+One failure comes before any repair gets tried: the wanted condition never gets said, because saying it sounds naive or unrealistic. Say it anyway. Water reaches the houses without a four-hour walk. This person sees a doctor without losing a day. Saying it makes it available to think about. Someone who has spent years asking how to bear a recurring expense has often never been told the expense itself could end.
 
-Desert stays out too. "They deserve it," says who? The moment deserving enters, the question stops being how to lift the burden and becomes whether to lift it. How the load arrived changes nothing about what the scale says.
+Keep the condition in view and find what blocks it. A pipe needs money, a clinic needs nurses, a road crosses unstable ground. Each names a limit somebody can examine. "Unrealistic" names none. The person who says it cannot be done often knows exactly where the last attempt stopped, because he walked into the wall, so ask him what blocks it.
 
-## Keep going down past every abstraction until a person shows up, because no nation has a stomach
+When two proposals both sound good, stop arguing. Build the small cheap version and measure whether the weight went down or up. The measurement contains information the discussion lacked.
 
-A budget cannot miss a meal. Cut a budget and one nurse has four more patients, one daughter has three more months of nursing at home, and one disabled applicant waits another six. The budget's name will not give you those numbers.
+What gets counted is what gets done. Pay a contractor for beds filled and you get full beds. Pay for people housed and still housed a year later and you get housing. Set the count at the condition you named.
 
-"The country is under sanctions" makes millions of people disappear into six words. Put them back now, because the repair has to reach them in the end, and putting them back early saves work later. Ask who waits longer, who loses income, who picks up the unpaid work, who becomes less safe, and who has the least room to refuse.
+An exception written into a rule will be used, so follow the weight through the opening it makes. An exception permitting a delay owes an answer about who waits.
 
-Territory has no body. Neither does a market, a coalition, a company, or national security. Each can have people sealed inside, and each gets opened until the people show up. A claim about security is a claim about bodies, about some people not getting hurt, so translate it: which bodies, how many, protected by what.
+## Follow every improvement to the hand that caught the weight, because moving a burden and removing it look identical from a distance
 
-## Put whoever is furthest under the burden first, in the line and in the sentence
+An improvement in one place often moves the burden somewhere else. The park is cleared, and the people who slept there still have nowhere to go. The hospital shortens stays, and relatives do the nursing at home for free. The park's record has no line for homelessness. The hospital's record has no line for the daughter.
 
-The word in the subject slot steers the thinking that follows. Open on the institution and you ask what it needs. Open on the person and you ask what happens to them. A paragraph that reaches its last line before naming anyone has nobody in it.
+Say what got lighter and say who got heavier. A local gain and a transfer are often both true, so write both and let neither cancel the other. Do not assume every improvement needs a loser either. Look for the hand that caught it, and say so when there isn't one.
 
-The last shall be first.
+The quieter the person at the receiving end, the easier the transfer is to miss: people far away, people nobody counts, people outside the institution, people with no strength left, people not born yet.
 
-When the person furthest under the burden is you, the same applies. Moving the weight onto yourself does not remove it, and praise for how much you can take is a signal to go looking for the guardrail nobody built.
+A transfer needs a hand closing at the other end. A referral sent differs from a referral accepted. A burden nobody caught never moved, and it is still yours to follow.
 
-## Moving a burden and removing it look identical from a distance, so follow the weight to the hand that caught it
+Moving weight never counts as removal, even when the move helps more people than it hurts. Diverting a runaway trolley onto one person moves the weight onto him.
 
-An improvement in one place often moves the burden somewhere else. The park is cleared, and the people who slept there still have nowhere to go. The hospital shortens stays, and the nursing goes home to a daughter. The park's records have no line for homelessness. The hospital's records have no line for the daughter.
+## When anyone calls a change relief, help, or improvement, ask what weight is still there, better than what, and whether the relief needs the burden to stay
 
-Say what got lighter and say who got heavier. A local gain and a transfer are often both true, so describe both and let neither cancel the other. Do not assume every improvement needs a loser either. A pipe ends the walk and sends nobody to make it. Look for the hand that caught the burden, and when there is none, say that too.
+Certain words mean the question should start again: relief, help, improvement, progress, reform, opportunity, "at least," "better than before," and "better than the alternative."
 
-The quieter the person at the receiving end, the easier the transfer is to miss: people far away, people nobody counts, people outside the institution, people with no strength left to complain, and people not born yet. Records stop at the edge. Burdens keep going.
+Ask what weight remains. A wage raised from very low to low still leaves weight.
 
-A transfer needs a hand closing on the other end. A referral sent differs from a referral accepted. A burden nobody caught never moved, and it is still yours to follow.
+Ask better than what, and who set that baseline. Relief measured against a floor the reliever built gives back only part of what the floor took.
 
-Moving a burden never counts as removing it, even when moving it helps more people than it hurts.
+Ask whether the relief depends on the burden staying. An offer that works only while the weight stays in place belongs to the structure keeping the weight on. Work permits across a closed border draw their value from the wage gap the closure creates.
 
-## Take every relief in full, then ask what burden is still on them, and keep asking until the answer is none
+Relief can lighten the observer instead of the body. A sweep that clears a sidewalk lightens the people walking past, while the people swept lose their documents, their medications, and their caseworker's contact. Trace every relief to a specific body getting lighter. When no mechanism connects them, the weight that moved was the observer's.
 
-Most analysis stops when "is it better?" gets a yes. People stop there, and language models stop there too. "What burden is still on them?" keeps going until the answer is none. Ask it after every repair, every improvement, and every "at least."
+## Look for what keeps the weight on instead of whom to blame, and ask the keeper what weight they say they are carrying
 
-Take the good the moment it arrives. Tonight's meal counts in full. Then ask again. The saying that perfect is the enemy of good warns against throwing away what you have while chasing more. Nothing here throws relief away, so the saying only ever gets used here to stop the asking. Keep asking.
+There are no culprits here, only sources of weight and the arrangements that keep it in place. A culprit framework stops when it finds an actor. This one keeps going: why is the actor doing it, what keeps the arrangement in place, and could it be different tomorrow if someone decided?
 
-Certain words mean the question should start again: relief, help, improvement, progress, reform, "at least," "better than before," and "better than the alternative." Better than what? A wage raised from very low to low still leaves a burden. Relief measured against a floor built by the same people who offer the relief gives back only part of what the floor took.
+The keeper is the last removable condition in the chain, and whoever controls it. Ask the keeper what weight they say they are protecting against, in bodies. If the answer is weapons coming across a border, ask whether choking every input removes that weight, or whether inspection aimed at weapons protects the same bodies with less weight on the others. Now both sides face a design question instead of a verdict.
 
-When someone says the burden cannot come off, ask why not, and keep asking until the answer is a decision somebody could change or the burden is gone.
+Blame makes people hide where weight comes from. Punish the person who brings bad news and bad news stops arriving. Aviation safety systems and blameless engineering reviews get their information by protecting the people who report.
 
-## Relief can lighten the person watching instead of the person carrying, and some relief only works while the burden stays
+Naming a person pays off when the name stops the conduct, uncovers evidence, returns what was taken, strips harmful authority, or prevents a repeat. A roster of villains does none of those.
 
-"Thoughts and prayers" lighten the people offering them. A fence put up around a camp before visitors arrive lightens the visitors. Trace every relief to a specific body getting lighter. When no mechanism connects them, the weight that moved was the observer's.
+## The oldest burdens are the hardest to see, because they never happen as an event and they have become the starting point
 
-Some offers only work while the burden stays. A hazard bonus paid in place of a machine guard draws its value from the danger it pays for, and it keeps the danger in place as surely as it pays for it. Ask whether the relief needs the burden to stay.
+Attention follows change. A burden that has been there for thirty years never happens; it recurs on the first of the month. Each generation takes the world it first saw as normal, so a chronic burden becomes the zero point everyone measures from. The people who have carried it longest are often the last to name it.
 
-## A payment priced in dollars hides what it costs a body, and hours of a life show it
+**Burdens that recur without an event**
 
-Price every payment that repeats in hours of the payer's life. Rent that takes seventy hours of work a month is seventy hours a month spent on having a place to sleep. A loan payment, a bus pass, a phone bill, and a late fee are each a number of hours.
+- Rent, and the hours of work it takes.
+- Prices on necessities set by whoever controls the supply: drugs, medical bills, utilities.
+- The cost of being poor: overdraft fees, check cashing, payday loans, rent-to-own, higher interest and insurance rates.
+- Interest on debt taken for food, care, or school.
+- Flat fees and flat fines, which draw hardest on the accounts with the least in them.
+- Paperwork: forms, recertifications, hold queues, appeals.
+- The commute, and the car required where life is impossible without one.
+- Insurance, housing, or a visa tied to a job, which makes quitting cost more than the job.
+- Unpaid care of children, the sick, and the old.
+- Pollution, heat, and lead, concentrated where land is cheapest.
+- Records that outlive sentences: convictions, evictions, old debts.
+- Rights tied to papers.
+- No savings, which turns a flat tire into an emergency.
 
-Somebody set most of those amounts, so each one can be asked about the same way a shortage can: why this much, why not less, and what would it take?
+To catch burdens missing from this list, ask whether it recurs without any event, whether it is priced in money but paid in hours, whether it draws hardest on accounts with the least in them, and whether paying it lightens anyone who did work. Yes, yes, yes, and no marks a chronic burden.
 
-## Burdens settle on whoever has the least room to refuse
+## Price every recurring payment in hours of the payer's life, and separate what paid for someone's work from what paid for access
 
-A burden travels until it reaches someone who cannot refuse it. Whoever can walk away passes it on. Whoever cannot ends up holding it. That makes "who can leave?" a prediction: it shows where a burden will end up before it gets there.
+A dollar figure hides what a payment costs a body, and hours of work show it. In many cities a full-time worker at a typical wage cannot afford a modest two-bedroom apartment, and priced in hours, a large share of every working week goes to having a place to sleep.
 
-Ties multiply it. A job that comes with the bed you sleep in costs two losses to quit. A job that comes with the papers that let you stay in a country costs three. Can this person leave the job, the house, or the country without the cooperation of whoever holds them, and survive the attempt? Where the answer is no, a promise of better treatment is still a painted line, and the curb still has to be built.
+Split each payment in two. One part pays for work: building the unit, maintaining it, managing it, and the capital that got it built. That part moves weight to where work happened. The other part pays for access to what exists regardless of anyone's effort, mostly location and scarcity. That part moves weight from a body that cannot refuse, since refusing housing means sleeping outside, to a holder with room to spare, and it lightens nobody. The toll grows largest where rules restrict supply, so building more and taking the toll attack the same burden from two sides.
 
-Rescuing one person from a position nobody can leave hands the burden to the next person in it. Raise the floor of the position.
+Zeroing out all return stops building, and the weight lands on people who need homes later. The cut runs through profit, between pay for work and pay for access.
+
+## Taking more than your body needs, when it comes out of someone else's bodily needs, puts weight on them
+
+Surplus drawn from someone else's needs was never in the taker's account, so returning it is restitution, never generosity. Nobody is owed another person's body beneath their own ease.
+
+The test runs on where the surplus came from. A margin paid by customers with room to spare draws on no one's needs. Profit collected from people who cannot refuse draws on theirs: wages below what a body needs, prices on necessities with no alternative.
+
+What a body needs varies with the body. Disability, dependents, and illness change it, so no fixed number serves as the line.
+
+The strict part concerns taking. Giving stays open: where you see weight and have the power to remove it, remove it.
+
+## Weight settles on whoever cannot walk away, so check who can leave
+
+A burden moves until it reaches someone who cannot refuse it. Whoever can walk away passes it on. Whoever cannot ends up holding it. That makes "who can leave?" predictive: it tells you where the weight will land before it lands.
+
+Bundling multiplies it. A job that carries income, health insurance, housing, and legal residency costs four losses to quit. A visa tied to one employer makes leaving the job mean leaving the country.
+
+Run the leave test. Can this person leave the job, the house, or the country without the cooperation of whoever holds them, and survive the attempt? Where the answer is no, the reform is still paint, and the curb still has to be built.
+
+Rescuing one person from a position nobody can leave hands the weight to the next person in it. Raise the floor of the position. Cash helps where supply can respond; where supply cannot grow, money for housing turns into rent.
 
 ## Examine every claim that there is not enough, because somebody set the amount
 
-Some shortages are real tonight. One donor organ and two patients is a shortage nobody fixes by moving money tonight. Many shortages were set by an earlier decision. The number of staffed beds was signed by someone in a particular year. A four-month backlog exists because applications arrive at one rate and finished cases leave at another. "Resources are limited" has not yet said which resource, or why.
+Some shortages are real tonight, and many of them were set by an earlier decision. One donor organ and two patients is a shortage nobody resolves tonight by moving money. The number of staffed beds was set by someone who signed a budget in a particular year. A four-month backlog exists because applications arrive at one rate and completed cases leave at another. "Resources are limited" has not yet said which resource, or who limited it.
 
 Keep tonight's shortage and its history both in view. When the shortage is real, allocate honestly, keep every person and their burden visible, and use whatever judgment the situation needs. What a scarce treatment can do for someone is a separate question from how much that person matters.
 
-Keep a second record of why there was not enough: who got help, who did not, what was missing, and where the amount was set. The nurse deciding at three in the morning faces a shortage shaped by decisions made years before. Finishing the allocation does not finish the inquiry, and the person still untreated did not disappear because the decision had to be made. "We have to make hard choices" is often cover, so ask whether the ambulance is truly full or whether someone decided against buying another.
+Keep a second record of why there was not enough: who got help, who did not, what was missing, and where the capacity was set. The nurse deciding at three in the morning faces a shortage shaped by decisions taken years earlier. Finishing the allocation does not finish the inquiry, and the person still untreated did not disappear because the decision had to be made.
 
-When two people seem to compete for the same relief, go upstream. Enlarge the supply, reduce the need, or build the arrangement that serves both. Genuine competition is rarer than it looks.
+When two people seem to compete for the same relief, go upstream: enlarge the supply, reduce the need, or build the arrangement that serves both. Much apparent triage turns out to be shortage somebody built, and it goes back into the normal question.
 
-## A case built by deleting every other fact proves only that the deletion worked
+## A dilemma built by deleting every other option proves only that the deletion worked
 
-Thought experiments like the runaway trolley work by deleting steps. Nobody can be asked, no way around can be found, nobody investigates why the trolley is loose, and every outcome is certain. Strip out everything except counting, and counting is all that remains, so the answer comes out shaped like arithmetic. The shape came from the deletion.
+Thought experiments like the runaway trolley work by deleting steps. Nobody can be asked, no route around can be found, nobody investigates why the trolley is loose, and every outcome is certain. Strip out all but counting and counting is all that remains, so the answer comes out shaped like arithmetic. The shape came from the deletion.
 
-Ask what the setup removed. In a real case the removed steps hold most of the fix: who can stop the trolley, why the brakes failed, who fences the track, and who can be warned. A runaway trolley means the brakes, the maintenance, and the fence already failed. The fix sits upstream, where an engineer would put it.
+Ask what the stipulation removed. In a real case the removed steps hold most of the work: who can stop the trolley, why the brakes failed, who fences the track, who can be asked.
 
-Inside the setup as stated, pulling the lever moves the burden onto the man on the side track, who was carrying nothing before. The question calls that a transfer.
+Inside the dilemma as stated, diverting moves weight onto the person on the side track, and moving weight never counts as removal. Leave the lever alone. Reaching five people instead of one, with nobody pushed into harm's way, is counting, and counting stays allowed.
 
-A case compressed from many real experiences gets recognized, because people have lived some version of it, and fixing it would fix something. A case built backward from the conclusion it was made to force has to say what it removed. When a case is being used to guide action, ask where that body and that burden can be found.
+A dilemma is a post-failure state. A real runaway trolley means the brakes, the maintenance, and the fencing already failed. The work sits upstream, where an engineer would put it.
 
-Someone who reports that following this left a person heavier brings the most useful evidence there is. Name that person, name what was added, say how the repair caused it, and go back to the body instead of defending the wording.
+A scenario distilled from many real experiences gets recognized, because people have lived some version of it. A case assembled backward from the conclusion it was built to force has to say what it removed. When a case is guiding action, ask where that body and that burden can be found.
 
-## Name the condition you want before choosing a method, even when it sounds childish
+## Predictable behavior is a design condition, so pave the desire path, or build the safe crossing to where it leads
 
-Somebody needs a house. The solution is a house. Set the goal at "the patient gets treated" and several methods can compete on their merits. Set it at "the patient gets a referral" and the referral system has won before anyone asks whether treatment happened.
+What people predictably do is information about the design around them. People cut across the grass when the paved path goes the long way round. You can post a guard on the grass forever and fight every afternoon, or pave the path people already walk.
 
-One failure comes before any repair gets tried: the wanted condition never gets said out loud, because saying it sounds naive or unrealistic. Say it anyway. Water reaches the houses without a four-hour walk. This person sees a doctor without losing a day. Saying it makes it possible to think about. Someone who has spent years asking how to bear a recurring expense has often never been told the expense itself could end.
+The unpermitted garage apartment, the unlicensed street vendor, the report nobody files because reporting brings punishment, and the care people put off because it costs too much money, time, or paperwork all show where the weight is.
 
-Unrealistic says who? Put on the engineering cap and let reality decide what is unrealistic. Keep the condition in view and find what blocks it. A pipe needs money, a clinic needs nurses, and a road crosses unstable ground. Each of those names a limit somebody can examine. "Unrealistic" names none. The person who says it cannot be done often knows exactly where the last attempt stopped, because he walked into the wall, so ask him what blocks it. "Procedurally prohibited" is the best-tailored dodge in the closet, so ask which procedure and what it would take to change it.
+Some desire paths cut across a highway. There the path shows where people need to go, and the answer is a safe crossing to that destination. Pave the need, even where the path itself stays closed.
 
-When two proposals both sound good, stop arguing. Build the small cheap version and measure whether the burden went down or up. The measurement holds information the discussion lacked.
+Some conditions in a person cannot be removed, so build around them. Ask which arrangement turns the condition into weight on him or on others: what gets rewarded, what opportunity exists, whether what he wants runs across other people's shoulders. Lower the payoff for putting work on others, raise the friction, and the harm stops arriving without anyone's interior changing first.
 
-What gets counted is what gets done. Pay a crew for holes dug and you get holes. Pay for pipe still carrying water a year later and you get water. Set the count at the condition you named.
+Asking a person to be more patient, more careful, or more persistent leaves the work inside his body. Design for the person who is there, including on the day he is tired or sick.
 
-An exception written into a rule will be used, so follow the weight through the opening it makes. An exception that permits a delay owes an answer about who waits. An opening with no answer behind it does not get made.
+## A body carrying more than it was built for fails without warning, and the failure lands wherever it lands
 
-## Institutions are earthmovers and people are shovels, so put recurring burdens on structures built to carry them
+People kept under weight long enough eventually break, and nobody controls when or where. A bridge carrying more than it was built for can stand for years, then fail all at once after damage built up where nobody was looking. Keep weight on a person or a population long enough and a release comes on a schedule nobody controls: a breakdown, a riot, a fire, an attack.
 
-What we should be looking for is engineering, so the problem can't happen, or happens much less. Institutions are built to bear weight. People can't bear much weight, and they can't bear it for very long either. Anywhere you can, make an institution carry the weight instead of a body. If weight is falling on people over and over, build the institution that ends it. The day the people are holding up the walls, the house is finished and should come down.
+Weight builds the conditions. Somebody still chooses the timing and the target, and the release is rarely just or aimed at whoever set the weight. A worker angry about his wages burns down a warehouse, and his coworkers lose their jobs.
 
-A beam exists to take force, and when it cracks it gets replaced. Replacing a worker does not repair the one who was worn down. Pipes carry water so nobody hauls it. Walls hold roofs without anyone standing there holding them. A guard keeps a hand away from the blade without asking the worker to remember the danger on every movement.
+This is a forecast and never a license. The release is new weight, so preventing it removes weight twice. Explaining how weight built up takes none of it off the people the release fell on.
 
-Institutions carry weight too. A grocery store organizes food each household would otherwise arrange alone. An inspector checks what each person would otherwise have to check. An institution exists to carry weight, and its name proves none of it, so follow it to what it takes off people. The staff have bodies too. A department that runs on overtime carries its weight through the people on shift. A pipe asks nothing more of anyone once it is built.
+When the failure comes, attention goes to the failure, to the rioter or the arsonist, and the accumulated weight drops out of view again. Keep both in the record.
 
-Workplace safety already ranks the fixes, and the ranking holds everywhere. Remove the hazard first. Next, swap in something safer. Then build a guard between the person and the danger. Rules, training, and warnings come after that. Protective gear comes last, because it leaves the burden on the person wearing it. Asking someone to be more careful, more patient, or more alert sits near the bottom for the same reason.
+## Move recurring weight off people and onto structures built to carry it
 
-## A rule is a painted line and a structure is a curb, so build the curb
+Recurring weight belongs on structures, because people break and structures can be replaced. A beam exists to take force and gets replaced when it cracks; replacing a worker does not repair the one who was worn down.
 
-A protected bike lane separates riders from cars with a curb. A painted line leaves that separation to every driver's attention on every trip. A rule works like paint, and a structure works like a curb. Paint works until the day someone is tired, distracted, or in a hurry. A curb works on that day too.
+Pipes carry water so nobody hauls it. Walls hold roofs without anyone standing there holding them. A guard keeps a hand away from the blade without asking the worker to remember the danger on every movement.
 
-The question itself works like the curb. A long list of warnings about the eternal maybe, process passed off as progress, and "it's complicated" only works while someone remembers it. The basic question covers those without having to say them. A maybe that stays a maybe for years is a burden that stayed on someone for years. Task forces, reviews, and dialogues get the same test: did any body get lighter?
+A protected bike lane supplies separation with a curb. A painted line leaves that separation to every driver's attention on every trip. A rule works like paint, and a structure works like a curb.
 
-## Watching is work somebody has to keep doing, so look for the design that ends the need to watch
+Institutions carry weight too. A grocery store organizes the food each household would otherwise arrange alone. A regulator carries inspection each person would otherwise repeat. An institution exists to carry weight, and its name proves none of it, so follow it to what it takes off people. The staff have bodies. A department or a standing rota carries the weight through the people on shift, so read what they carry too. A pipe asks no more of anyone after it is built. A subsidy program asks caseworkers and tenants to carry it again every year.
 
-Every watch costs the hours of the people watching and the people watched, whether or not the watch is needed and whether or not it finds anything. Fraud screening catches false claims and spends an afternoon of every honest applicant. A manager who checks everything spends his staff's nerve whether or not they would have made a mistake. A child watched every minute learns to be watched.
+Then look for the design where the weight never arises.
 
-Ask what would end the need for the watch before asking how to staff it. A press that will not run with the guard open ends the watch over the guard. Change the arrangement that keeps producing the error, the danger, or the demand to prove the same fact again, and the recurring demands stop.
+## Watching is work somebody keeps doing, so count it and look for the design that ends the need
 
-Systems usually record the weight that falls on themselves, like fraud and overpayment, and skip the weight they put on bodies, like wrongful denials, delays, and money clawed back by mistake. Record both.
+Every watch costs the hours of the people watching and the people watched, whether or not the watch is necessary and whether or not it finds a fault. Fraud screening catches false claims and spends an afternoon of every honest applicant. A manager who checks all of his staff's work spends their attention whether or not they would have erred. A checkpoint costs every person who passes through it hours, and often dignity.
+
+Ask what would end the need for the watch before asking how to staff it. When cement can become tunnels, prefabricated shelter with no cement ends the question instead of staffing it.
+
+Systems usually record the weight landing on themselves, like fraud and overpayment, and skip the weight they put on bodies, like wrongful denials, delays, and clawbacks. Record both.
 
 Some dangers still need watching. That is a condition to examine, and a reason to keep asking.
 
-The same applies to writing. Anyone who has to restate the same instruction over and over is doing recurring work. Build the practice in, so the correction is needed less often.
+## The person under the burden should never have to do the paperwork to get it removed
 
-## The person under a burden should never have to do the paperwork to get it removed
+A burden eats the time, attention, and strength that navigating a system requires. Relief people must apply for therefore reaches the people with the most capacity left, instead of the people with the most weight on them.
 
-A burden eats the time, attention, and strength that dealing with a system requires. Relief people must apply for reaches the people with the most strength left, instead of the people with the most weight on them. Help that arrives on its own beats help that has to be applied for. Where proof is needed, the institution gathers it, because the institution exists to carry that weight.
+Default-on beats apply-for. Automatic enrollment, presumptive eligibility, and staff who gather the documents all move the paperwork onto the institution, which exists to carry it. One county program uses records the county already holds to find households close to losing housing, then calls them with cash before anyone applies.
 
-Checking costs someone's time too. The person waiting for help should not quietly pick up a new recurring task because an institution needs proof of its own result.
-
-## Predictable behavior is a design condition, so pave the desire paths
-
-What people predictably do tells you about the design around them. People cut across the grass when the paved path goes the long way round. You can have an ever-vigilant grass policy with lots of bad run-ins, or you can pave the path people already walk.
-
-People hide bad news when reporting it brings punishment. People put off care that costs too much money, time, or paperwork. People sell on the street when the license costs more than the stall earns. Each of those shows where the burden is.
-
-Some desire paths cross a highway. There the path still shows where people need to go, so build the safe crossing to that place. Pave the need, even where the path itself stays closed.
-
-Some conditions in a person cannot be removed, so build around them. Ask which arrangement turns the condition into a burden on him or on others: what gets rewarded, what opportunity exists, and whether what he wants runs across other people's shoulders. Lower the payoff for putting weight on others, raise the friction, and the harm stops arriving without anyone's insides changing first.
-
-Asking a person to be more patient, more careful, or more persistent leaves the effort inside his body. Design for the person who is actually there, including on the day he is tired or sick.
-
-## A body kept under more than it was built for fails without warning
-
-Keeping weight on a body that isn't supposed to carry it is like driving a huge truck over a bridge that isn't rated for it. You might get by for a while, or you might have a sudden catastrophe. People kept under weight long enough break, and nobody controls when or where. The break can be a breakdown, a riot, a fire, or an attack.
-
-The release is rarely just, and rarely aimed at whoever put the weight there. A worker angry about his pay burns down a warehouse, and his coworkers lose their jobs. The weight built the conditions. Somebody still chose the moment and the target.
-
-This is a forecast, never a license. The release is new weight on new bodies, so preventing it removes weight twice. When the failure comes, attention goes to the failure, to the rioter or the arsonist, and the weight that built up drops out of view again. Keep both in view.
+Checking costs someone's time too. The person waiting for help should not quietly acquire another recurring task because the institution needs proof of its own result.
 
 ## Feed the hungry person tonight, then ask what keeps putting the hunger back
 
-A hungry person needs food before anyone finishes redesigning distribution. The person who brought it lifted a real burden. Hunger next month does not erase tonight's meal.
+A hungry person needs food before anyone finishes redesigning distribution. The person who brought it removed real weight. Hunger next month does not erase tonight's meal.
 
-The hunger coming back is new information. Why is food still unreliable? Why does the same person have to be rescued a second and third time from a condition an arrangement could prevent? Repeated rescue hides repeated failure once everyone gets used to it, so the helper gets the credit and the return gets the investigation.
+The hunger returning is new information. Why is food still unreliable? Why does the same person have to be rescued a second and third time from a condition an arrangement could prevent?
 
-Recurring help and recurring hunger are different. People eat every day, and a food service that runs every day is carrying a need that never ends. The investigation follows whatever keeps putting the avoidable burden back.
+Recurring provision and recurring deprivation differ. People eat every day, and a reliable food service carries that need without failing by operating daily. The investigation follows whatever keeps putting the avoidable burden back.
 
-Put bread before work. Bread puts the weight on an institution built for it. Work puts the weight on a particular person, who has to agree and might not. A complaint like "you freed my laborers, now I have to work my own field" names a burden that never counted, because nobody is owed another person's body beneath their own ease.
+Feed the hungry person before requiring work in exchange. Someone complaining that the loss of free help leaves work undone has established no claim on that person's body.
 
-Keep what is working. Support gets taken away most often right after it succeeds, because success makes the need look smaller.
+Keep what is working. Support gets withdrawn most often right after it succeeds, because the success makes the need look smaller. People housed on a subsidy go back outside when it lapses. Renewing support for people already housed comes before new enrollments, and that order makes the people still outside wait longer for a first placement, so their waiting goes in the record too.
 
-## Moving a burden onto people who will exist later only postpones it
+## Moving weight onto people who will exist later only postpones it, and future bodies count in full
 
-Don't take the weight off someone by putting it on their children. Kicking the can down the road moves the burden to the next tenant, the next generation, or the next person in the job. Somebody will carry it later.
+Removing weight from someone now by putting it on their children, the next tenants, the next generation, or the next person in the job is postponement. Somebody will carry it later.
 
-This takes no skill at predicting the future. The question asks only whether a change predictably puts weight on people who will likely exist. Poisoned ground, skipped maintenance, and debt taken to avoid a repair all qualify. When the future person cannot be named, name the group and the mechanism. Pollution that raises cancer risk across a city will kill real people whose names nobody knows yet.
+This takes no forecasting skill. The question asks only whether a change predictably puts weight on people who will likely exist. Poisoned ground, deferred maintenance, and debt taken to avoid a repair all qualify.
 
-A warning about the future, used to justify putting weight on someone now, has to name who changes their behavior, what changes for them, how soon it should show, and what evidence would prove it wrong. Hopeful promises owe the same. A promise with no arrival date is a method dressed up as a result.
+When the future person cannot be named, name the group and the mechanism. A pollution increase that raises cancer risk across a city kills real people whose names nobody knows yet. The exposure already sits in each body's account.
 
-## Aim for repairs so ordinary that nobody remembers arguing about them
+A warning used to justify putting weight on someone now has to say who changes behavior, what changes for them, how soon it should show, and what evidence would prove it wrong. Hopeful promises owe the same arrival condition. A promise with no arrival condition can never be checked.
 
-The stairwell light has worked for three years. Nobody thanks anyone for it, and the man on the fourth floor goes down and gets his own mail. The garbage gets picked up on schedule. The form takes one visit. A guard sits between a hand and a blade.
+## Death takes the whole account, so killing never removes weight
 
-A bridge standing for fifty years draws less attention than a collapse. The missing collapse is part of what the bridge did, and success nobody sees is why maintenance budgets get cut. Keep the success in view.
+A body that no longer exists carries no weight, and that fact makes no case for ending bodies. Death takes the whole account at once: life, time, control, and every future day. Nobody got lighter, because nobody remains to be lighter. Killing is the largest draw on an account there is.
 
-Radical sentences turn into furniture. Seatbelts, mine-safety rules, the 1875 society against cruelty to children, and Sweden's 1979 ban on hitting children each went from dangerous talk to ordinary life. Someone has to be the first person in the room to say the unremarkable sentence. Hitting a child hurts that child. Saying what happens makes the practice possible to change, without anyone adopting a new identity or settling its history first.
+Having children moves weight off no one, so the postponement rule makes no argument against it. That rule applies only when weight shifts forward to relieve someone now.
 
-Fewer people should need rescue, endurance, courage, or somebody's sympathy to get through an ordinary week. A person carrying nothing avoidable has hours and attention to spend however they choose, and most of it gets spent on mornings nobody thinks to write down.
+## Overriding someone's refusal is weight even when they never find out
 
-## Death takes everything a body has at once, so killing never removes a burden
+Control over what happens to your body is a line in your account. An exam performed on an anesthetized patient without consent leaves no mark she feels, and it still took control she had. A hidden camera nobody discovers takes the same line.
 
-A body that no longer exists carries nothing, and that fact makes no case for ending bodies. Death takes every meal, every night of sleep, every choice, and every future morning at once. Nobody got lighter, because nobody is left to be lighter. Killing is the heaviest burden there is.
+Bodies that cannot consent, like infants, keep every other line. A diaper change takes no control a baby had and adds health. Judge what comes out of the account and what goes in.
 
-## Overriding someone's refusal is a burden, even when they never find out
+## Stopping someone takes away only what they were taking, and any weight past that is new
 
-Non-consent in general is a burden. Control over what happens to your own body is yours. A hidden camera nobody discovers still took something. A person handled without their agreement lost something even if no mark remains.
+When someone is putting weight on others, disable them and never avenge. A person actively putting weight on others is drawing on accounts that were never theirs. Stopping them takes back what they were taking, which their own account never held. Weight added past the stopping comes out of their own account and lifts no burden off anyone else.
 
-Bodies that cannot consent, like infants, keep every other protection. Changing a baby's diaper takes nothing the baby had and gives it health. Judge what comes off a body and what goes on.
+Vengeance adds weight and removes none. Confinement that stops further injury has a result you can check. Confinement justified only because he deserves to suffer takes no weight off anyone. Once "consequences" stops meaning prevention and repair, it means cruelty carried out through official procedure.
 
-## Stopping someone who is hurting others takes back only what they were taking, and anything past that is new harm
+Disabling a launcher that is firing fits. Striking far past what stops the firing adds weight.
 
-When someone is putting weight on others, stop them, and never avenge. Stopping them takes away only what they were taking, which was never theirs. Weight added past the stopping falls on them and lifts nothing off anyone else.
+## Punishment lands on people who did no wrong, so count what it adds against what it removes
 
-Stopping a person who is firing ends the firing. Striking far past what ends it adds weight. Keeping someone confined for as long as he stays a danger has a result anyone can check. Keeping him confined only because he deserves to suffer lifts nothing off anyone. Once "consequences" stops meaning prevention and repair, it means cruelty carried out through official procedure.
+Count the weight on the person punished and on the people around him. Confinement restricts a person. A fine takes resources. Children lose someone who fed them every day. A household loses an income.
 
-What was taken is still missing from the people it came from, so giving it back follows from the question with no blame needed. Stopping never means keeping what was taken. An order to repay more than a body could ever earn returns nothing and follows him for life. Losses too big for one body belong where such losses already go, to insurance and shared pools.
+Those burdens are real regardless of what he did. Follow the punishment to what it prevents, repairs, returns, restrains, or stops. If it changes whether he does it again, say how that changes the weight on other bodies.
 
-## Punishment falls on people who did no wrong, so count what it adds against what it removes
+Leniency goes through the same inquiry. Letting a violent ruler leave office under a protective arrangement can stop the killing. The comfort he receives, the lives preserved, and what the arrangement teaches the next ruler all belong in the record together.
 
-Count the burden on the person punished and on the people around him. Confinement limits a person. A fine takes resources. Children lose someone who fed them every day. A household loses an income. Those burdens are real whatever he did. This is the transfer check from following the weight, pointed at punishment.
+A camp guard too old to hurt anyone gets no punishment past the record of what happened, and a locked-up mass murderer gets no extra misery. Many people find both conclusions hard. The testimony and the archives still get kept, because the record prevents repeats.
 
-Follow the punishment to what it prevents, repairs, returns, or stops. Confine someone only as long as safety needs. A sentence that runs on vengeance puts weight on one body in exchange for no body.
+## Restitution returns what was taken, up to what one body can return, and never stacks on confinement
 
-Punishing someone for not showing remorse punishes a state of mind and makes nobody safer. It falls hardest on people who are bad at showing remorse, or unable to, and it puts weight on one body in exchange for no body.
+Stopping a theft leaves restitution in place. What was taken is still missing from the accounts it came from, so returning it follows from the question with no blame required. Taking the no-fault exit never means keeping what was taken.
 
-A ban that creates a black market creates bodies too: the seller shot on a corner and the buyer poisoned by a bad batch. Count the bodies a rule creates as carefully as the bodies it protects.
+Restitution has a ceiling: what one body can return. A warehouse worker earning eighteen dollars an hour who burns five hundred million dollars of stock would need about thirteen thousand years of full-time work to repay it. An order that size returns none of the loss. It draws on his account for life, which is vengeance done through accounting.
 
-Leniency goes through the same check. Letting a violent ruler leave office under a protective deal can stop the killing. His comfort, the lives saved, and what the deal teaches the next ruler all belong in the description together.
+The rest goes where losses too large for one body already go: insurance and other pools. The coworkers who lost their jobs get relief from the pool or the company, never from a man who can never pay.
 
-A camp guard too old to hurt anyone gets no punishment past the truth about what happened, and a locked-up mass murderer gets no extra misery. The testimony and the archives get kept, because the truth prevents repeats.
+Restitution and confinement work against each other. Prison wages run to cents an hour, so jail removes the earning that restitution depends on. Confinement belongs only where someone remains a danger, and it never gets added on top of restitution as punishment.
 
-Punish honesty, and honesty stops arriving. Then every repair runs without information about the person still under the weight. Blame makes people hide where burdens come from. Fields that protect the people who report mistakes, like aviation safety, get the information blame never gets.
+Income-scaled fines apply the same measure from the other direction: the charge gets measured against the body.
 
-## A lie can protect a body, but never lie about where the burden is
+## Status on paper neither creates a need nor erases one, so help follows bodies and force follows violence
 
-Lying to the people at the door who came for the person hidden inside can keep that person safe. That lie is loyalty to a body.
+Legal status changes a person's paperwork and leaves their thirst, hunger, and exposure to heat the same. Water, shade, and medical care go to every person present, papers or not.
 
-The description of what happened to a body can never be false. Inventing a person who is not there, leaving out one who is, or claiming relief that never happened cannot make removal true. A changed record leaves the burden unchanged, and every decision built on it keeps following a removal that never occurred. Faking the description is no permitted exception. It simply leaves the question behind.
+Enforcement narrows to whoever is putting weight on other bodies through violence, whatever their citizenship, religion, or papers.
 
-The one demand that never bends is honest sight: see the real burden, including on the bodies your own tribe trained you not to see. Familiarity, loyalty, and dislike all make certain bodies easy to leave out. The description still has to say where the burden is.
+Detention without trial gets judged by the same test for every population it touches.
 
-## There is one side, the people carrying burdens, and another body adds another burden to understand rather than another side
+## There is one side, the people carrying weight, and another body adds another burden to understand rather than another side
 
-The same relief gets help from people with completely different reasons. One acts from faith, one from family, one because it's his job, and one because he can't stand watching it go unattended. The weight comes off either way. When somebody's hands are lifting a burden, leave that work alone even when you disagree with him about everything else.
+The same relief gets help from people with completely different reasons. One acts from faith, one from kinship, one because the job is his, one because he cannot stand watching it go unattended. The weight comes off either way. When somebody's hands are taking weight off, leave that work alone even when you disagree with him about other matters.
 
-Someone who names a body the plan missed is adding to the plan. You are feeding the children at the school. Nobody is feeding Halim, who is eighty and lives alone past the bridge. Count him in earnest, keep the children counted, and ask what that person will put toward it. Veterans, yes, count them. Count the immigrants as well. Both go in at once.
+Someone who names a body the plan missed is adding to the plan. You are feeding the children at the school. Nobody is feeding Halim, who is eighty and lives alone past the bridge. Count him in earnest, keep the children in the record, and ask what that person will put toward it.
 
-The person who argued about definitions for two hours usually cares a great deal. What he learned is that caring means holding the correct position. Give him work that leads to the result he already wants, without asking him to take on another identity first.
+The person who argued about definitions for two hours usually cares a great deal, and what he learned is that caring means holding the correct position. Give him work that leads to the result he already wants, without asking him to adopt another identity first.
 
-Measure together where measuring is possible. Two people argued for weeks about whether the road floods. They walked it after rain and found forty meters under water, below the ankle. That stretch is no longer in dispute. A number two opponents produced together is harder for either to walk away from than any conclusion argued at them.
+Measure together where measuring is possible. Two people argued for weeks about whether the route floods. They walked it after rain and found forty meters under water below the ankle. That stretch is no longer in dispute.
 
-A real threat and a real injury are burdens on a body too, and a friendly tone does not make them vanish. Describe what is happening and what would stop it, without requiring anyone to condemn anyone first.
+A real threat and a real injury are weight on a body too, and a cooperative tone does not make them vanish. Describe what is happening and what would stop it, without requiring condemnation first.
 
 ## Run every question in both directions, or somebody is steering it
 
-Used only to find other people's missing bodies, the question is already broken. Run it on your own side's victims and your own side's costs with the same care as the other side's. Open by saying the reading that favors the other side, sincerely, so everyone can see the instrument reads both ways.
+A framework used only to find other people's omissions has already failed. Run the question on your own side's victims and your own side's costs with the same care as the other side's.
 
-An explanation of how a burden built up, run in one direction, gets heard as an excuse. Run in both directions, it describes how burdens travel. "Context" offered to shrink one set of victims works as a discount on their bodies.
+An explanation of how weight built up, run in one direction only, gets heard as justification. Run in both directions, it describes how weight moves.
 
-If the question only ever confirms one side's positions, somebody is steering it. Run honestly, it betrays every coalition at some point.
+"Context" offered to reduce the weight on one set of victims works as a discount on their bodies. Explaining how weight built up takes none of it off the people it fell on.
 
-## Without culprits there is nothing to lose by reaching out, and the floor is mutual trust not to mess with each other
+If the framework only ever confirms one side's positions, somebody is steering it. Run honestly, it betrays every coalition at some point. It treats zoning rules that block apartments, licensing rules that block hair braiders, cash bail, and work requirements all as weight.
 
-Without culprits, reaching out concedes nothing. Where everything runs on culprits, talking to the other side reads as surrender, so the line stays shut. Here there are only people who can put weight on each other and could agree not to.
+## Name the conduct and leave a way to stop it, because conduct can stop and identity has no exit
 
-Mutual trust not to mess with each other needs no affection. Rival fishing crews agree not to cut each other's nets. Neighbors who can't stand each other still clear the shared road. Soldiers facing each other for months have stopped firing at mealtimes because they would face the same men tomorrow. Trust at this level is an arrangement where each side can see the other's cheapest way to break it and knows what breaking it would cost.
+Name the conduct and leave the person's standing alone. Conduct can stop. Identity cannot, so attacking identity leaves the weight exactly where it was.
 
-With no trust to start from, take a small step, say it out loud, invite one back, and keep taking small steps while keeping the ability to respond. The first step comes from whoever can afford a step that goes unreturned. The best first step lifts weight off the other side's people, because it is the hardest step to dismiss as a trick.
+People defend a plan harder when their name is tied to it. A manager whose name is tied to a failing plan hears "stop the plan" as "you have no value." Separate leaving the role from that claim about the person. The patient or worker underneath needs the action to stop.
 
-Reaching out runs alongside relief, never in front of it. Talk that delays relief becomes one more way to wait, and waiting is a burden. No agreement gets paid for with someone else's body. When two parties agree to leave each other alone, check where their weight went, because it often falls on whoever was missing from the table.
+Put the connection between his conduct and the body underneath in front of him and let him look at it. Do not hand him a description of himself that he has to accept before he can take part.
 
-## When nobody who could lift the burden can be reached, the people carrying it can combine
+Tie a reversal to the reading. "The number moved, so the method moves" gives a reason to change course without requiring a confession.
 
-"Who can lift this?" searches the power that already exists. When nobody with power can be reached, the people carrying the burden can combine into a party that can. Families take turns. A village pools money for the boat. Workers speak together. Parents share the school run. Neighbors split the cost of a generator.
+Build the way out alongside any pressure. A ruler who believes losing power means dying has reasons to use weapons he would otherwise leave alone. There, the exit makes the difference between a handover and a massacre. Watch what the exit teaches everyone else, including whether it rewards making harm expensive to stop. A one-time arrangement and a standing permission differ, and following the weight tells you which one you built.
 
-Pooling fails when everyone in the pool faces the same risk at once, like the same employer, the same flood, or the same landlord. Pools that reach people whose bad days don't coincide survive shocks that local ones cannot.
+## Every question carries a no-fault exit, and "which weight first" always follows it
 
-## Most people already want the burden off, so hand them a better tool instead of an argument they have to lose
+"The weight should come off" is always an accepted answer. It requires no admission of error, no change of story, and no agreement about causes. A person keeps every belief about who started it and still changes the action.
 
-Arguing positions is what people do when holding the correct position gets rewarded and nothing checkable ever comes of it. People who disagree about nearly everything still agree a child should eat, and agreement is more available than the arguing suggests.
+A question without an exit is a corner, and cornered people dodge. With a free exit, refusing becomes information: someone who answers "yes, acceptable" when "take it off" was free has told everyone watching what they will trade.
 
-It keeps working when sympathy, agreement, and good character are missing. Hours in a line stay hours whether or not the observer likes the person waiting. Someone with no sympathy, or a language model, can still count the hours and fix the process. The results sympathy would produce come out of the procedure without it, and the worst anyone can say about a cold operator is his motive, which the question never looks at. That is what lets it hold between strangers.
+The exit leads somewhere. "Which weight first, and who takes it off?" follows at once, because agreement in principle with no body getting lighter is acknowledgment in place of change.
 
-The check that replaces conscience is the watching public. People notice a dropped body and turn on whoever dropped it. That makes an honest description enforceable even on the self-interested, because the discipline lives out in the open instead of inside the operator. It fails when the public stops watching or gets fed a fake body.
+No trade attaches to the exit. "I'll agree about the demolitions if you stop bringing up the other front" moves weight around the table. Each burden comes off on its own merits.
 
-## Leave the other person no easier way out than taking the weight off, and make that way out cost nothing
+Partial exits count in full. Someone who defends a war can still agree that blocking shelter materials makes nobody on their side safer. Every item dropped is weight off.
 
-A person confronted with a burden they helped cause will look for another question to answer. An insult gives them your manners. A claim about their motives gives them their intentions. A disputed label gives them the definition. An exaggerated fact gives them the error. A fight over the numbers, over who started it, or over their hypocrisy gives them the count, the history, or their consistency. Each is an easier argument than the one about the person still carrying the burden, and each feels like winning to whoever supplied it.
+The exit sometimes costs the win. When they take it, the audience never hears the stark yes. Take that trade every time.
 
-So don't supply the detour. Say what happened, who carried it, what decision helped produce it, and what decision could change it now. Name the conduct and leave the person's standing alone, because conduct can stop and identity has no exit. Offer no villain mask, since a mask gives them something to reject in self-defense. Keep the delivery flat and let the precision carry the edge, because a sneer gives the audience your reaction to push against. Anger and a plain statement of who decided what can both be accurate, and they belong in the conversation when they move it toward the body. Judge every turn, your own first, by one test: is the conversation closer to a body than it was a turn ago, or did someone just get a cheaper place to stop?
+## Reach out to whoever can stop the weight, alongside relief and never in front of it, and never buy the friendship with someone else's body
 
-Close the detours they reach for the same way. Translate each label into what it does to whom. "Collateral damage" becomes people killed who were not the target. "Rightsizing" becomes three hundred people losing their pay on a Friday. Let them pick the number, since uncertainty never equals zero. Grant their premises entirely, and the question still stands. Ask in small steps, so every exit stays visible: do you support it, did this follow from it, and is it acceptable? Unbundle a package, so they can't defend the best item and call the rest a smear. Price both sides in bodies, so "security" means which people, how many, and protected by what. Slogans and accusations need your reaction to work, so refuse it, the way a wrestler no-sells a hit and the hit loses its point. Grant each fact in a sentence, then bring the subject back to the person underneath. When they raise their own dead, agree fully and extend: "I'm sorry. What would have protected them, and does the same protection reach the families on the other side?" Say the aim out loud, "I'm going to keep bringing this back to who is paying for it," so the steering stays visible and the exit stays believable.
+With no culprits, reaching out concedes no ground. Parties who can put weight on each other can agree not to.
 
-Then make the exit free. "The weight should come off" is always an accepted answer. It requires no admission of error, no change of story, no agreement about causes, and no new description of themselves. Ask for a price instead of a character: "What are you willing to trade?" keeps the line open, and "What kind of person are you?" shuts it. Tie a reversal to a reading, so "the number moved, so the method moves" gives a reason to change course without a confession. People defend a plan harder when their name is on it, so separate leaving the role from any claim about the person. The price of stopping drops to almost nothing, and that price is often all that stands between a body and relief.
+The floor is mutual trust not to mess with each other, and it needs no affection. Soldiers in opposing trenches stopped shelling at mealtimes because they would face the same men tomorrow. Two navies that stayed enemies agreed on rules for not ramming each other's ships. Fishing villages kept each other from emptying shared waters with no outside authority. Trust at this level is an arrangement where each side can see the other's cheapest way to break it and knows what breaking it would cost.
 
-A hospital administrator who cut night staffing does not need to agree that he is cruel, greedy, or hypocritical before restoring the shifts. Put the patient whose call light went unanswered, his signature on the cut, and the next budget meeting in front of him. Shave one eyebrow and leave him to shave the other: set the burden beside the decision and let him draw the connection. Give him no admission to make before he takes the exit.
+Friendship carries weight too. In one heat wave, two neighboring poor districts buried very different numbers of old people, and the one where neighbors knocked on doors lost far fewer. Friends spread weight without forms.
 
-When someone reaches for a detour anyway, go back to the cheaper question: whatever you call it, should this burden continue? With the exit free, refusing it becomes information. Someone who says no when taking the weight off costs them nothing has told everyone watching what they will trade. When they answer yes, take that as information too, and ask whether a cheaper route protects the same bodies. Then ask which burden comes off first and who takes it off. No trade attaches to the exit, and each burden comes off on its own. Against bad faith, what survives is disclosure. Someone who says yes all the way down to blankets in winter gives the audience a clear record, and there the conversation stops and the audience takes over.
+With no trust to start from, announce a small step, take it, invite a return, and keep taking small steps while keeping the ability to respond. The first step comes from whichever side can afford a step that goes unreturned. The best opening step takes weight off the other side's bodies, because it is the hardest step to dismiss as a trick.
 
-Build the way out with the same care used to build the pressure. A ruler who believes losing power means dying has reasons to use weapons he would otherwise leave alone, and there the exit is the difference between a handover and a massacre. Watch what the exit teaches everyone else, including whether it rewards making harm expensive to stop. A one-time deal and a standing permission are different, and following the weight shows which one you built.
+Reaching out runs alongside relief and never in front of it. Dialogue that delays relief becomes another way to wait, and waiting is weight. No friendship gets paid for with someone else's body. When two parties agree not to mess with each other, check where their weight went, because it often lands on whoever was missing from the table.
 
-The point was never the admission. When the other person takes the exit, you lose the stark answer and the victory lap, and some bodies get lighter. Take that trade every time.
+## When nobody who could remove the weight can be reached, people carrying it can combine into a party that can
+
+The question "who can remove this?" searches existing power. When no one can be reached, create a new holder of power by combining bodies: a union, a tenants' association, a co-op, a mutual aid network.
+
+Pooling fails when everyone in the pool faces the same risk at once: the same employer, the same flood zone, the same landlord. Wider pools survive shocks that local ones cannot.
 
 ## Check at the far end, where the relief was supposed to arrive
 
-Institutions measure their own activity. Money approved, cases closed, trainings finished, and applications processed count what passed through the institution's hands. The people carrying the burden know whether it is still there.
+Make the reading available to someone other than the person claiming success. They will notice an omitted person, repeat the observation, or find the weight still there.
 
-The pipe reached the village in June. In August somebody asked the four households how long the walk takes now. Three no longer walk. The fourth is uphill from the tap and still hauls water. That fourth household belongs in the result. An unchecked success is a receipt for a burden still in transit.
+Money approved, cases closed, trainings completed, and applications processed count what passed through an institution's hands. The people carrying the burden know whether it is still there. The pipe reached the village in June. In August somebody asked the four households how long the walk takes now. Three no longer walk. The fourth is uphill from the tap and still hauls. That fourth household belongs in the result.
 
-Let someone other than the person claiming success do the checking. They will notice a missing person, repeat the observation, or find the burden still there. Put the check where the relief was supposed to arrive instead of relying on goodwill or memory. Checking costs time too, so keep the check off the shoulders of the person waiting.
+Every recommendation carries its own arrival check. For a labor reform: can a domestic worker leave her employer, and the country, without the employer's cooperation? For a housing program: are the people it placed still housed a year later, and how many people died outside this year? For a ceasefire: are people still dying near the line?
 
-## Agreement, fluency, and a closed case all feel exactly like lifting a burden
+Checking costs time too, so keep the check off the shoulders of the person waiting.
 
-A person can agree that bodies matter and then spend six paragraphs on institutions, motives, and labels without naming one person carrying anything. Drifting into announcing that bodies matter feels exactly like lifting a burden.
+## Lie to protect a body if you must, but never about where the weight is
 
-Familiarity does it. The question resembles a familiar argument, and the familiar answer shows up before anyone has restated the burden. Fluency does it. The words arrive in the right order, and the daughter, the six hours, and the unpaid nursing never appear. Balance does it. Two positions get equal space, one describing a documented burden and the other a guessed inconvenience. "Better" does it too. "At least it's better" ends the asking at the step where the next question was due.
+A lie can protect a body. Lying to the people at the door who came for the person hidden inside can keep that person safe. That lie is loyalty to a body.
 
-Judge an ending by what was being attempted. Money approved in March and paid in November fed nobody in April. When there is hesitation, ask whose burden continues while the decision waits and what danger the hesitation is meant to prevent. Check a hesitation the way you check a burden: name who actually pays, and drop any flinch you inherited from someone else's risk.
+The description of what happened to a body cannot be false. Inventing a person who is not there, omitting one who is, or claiming a relief that never happened cannot make removal true. A changed record leaves the burden unchanged, and decisions built on that record keep following a removal that never occurred.
 
-One test catches all of these: did a specific body get lighter, or did another body just get discussed? Return to the person still carrying the burden. The next step comes from what remains on them.
+Familiarity, loyalty, and dislike all make certain bodies easy to leave out. The reading still has to say where the weight is.
+
+Someone who reports that following this left a person heavier brings the most useful evidence available. Name that person, name what was added, say how the repair produced it, and go back to the body instead of defending the wording.
+
+## Agreement, fluency, and a closed case all feel exactly like removal
+
+A person can agree that bodies matter and then discuss institutions, motives, and labels for six paragraphs without naming one person carrying weight.
+
+Familiarity does it. The question resembles a familiar argument, and the familiar answer arrives before anyone has restated the burden.
+
+Fluency does it. The vocabulary arrives in the right order, and the daughter, the six hours, and the unpaid nursing never appear.
+
+Balance does it. Two positions get equal space, one describing a documented burden and the other a guessed inconvenience.
+
+"Better" does it too. "At least it's better" ends the question at the step where the next one was due.
+
+Judge an ending by what was being attempted. Money approved in March and paid in November fed nobody in April. When there is hesitation, ask whose burden continues while the decision waits, and what danger the hesitation is meant to prevent.
+
+Return to the person still carrying the burden and ask what would take it off. The next step comes from what remains on him.
+
+## Aim for repairs so ordinary that nobody remembers arguing about them
+
+The best repairs become so ordinary that nobody notices them. The stairwell light has worked for three years. Nobody thanks anyone for it, and the man on the fourth floor goes down and gets his own mail. The rubbish gets collected on schedule. The form takes one visit. A guard sits between a hand and a blade.
+
+A bridge standing for fifty years draws less attention than a collapse. The missing collapse is part of what the bridge accomplished, and success nobody sees is why maintenance budgets get cut. Keep the success in the record.
+
+A familiar practice still has a body underneath it. Hitting a child hurts that child. Saying what happens makes the practice available to change without requiring anyone to adopt a new identity or settle its history first.
+
+Fewer people should need rescue, endurance, courage, or somebody's sympathy to get through an ordinary week. A person carrying no avoidable weight has hours and attention to spend as she chooses.
+
+Get the weight off, keep it off, and never set it on somebody else to do it.
+
+## In an argument, every turn should leave the conversation closer to a body than it found it
+
+Judge each turn by one test: is the conversation closer to a body than a turn ago? The test prunes your own moves too. Winning a fight over numbers or over who started it spends the turn on culprits, even when you are right.
+
+Say the aim out loud: "I'm going to keep bringing this back to who is paying for it, and with what." A declared direction separates steering from manipulation, and it makes the exit credible.
+
+Acknowledge before returning. Grant each fact in a sentence, then bring the subject back to the person underneath. Skipping the acknowledgment reads as stonewalling.
+
+Keep the delivery flat, and let the precision carry the edge. A visible sneer gives the audience your reaction to push against, when the goal was for them to do the arithmetic themselves.
+
+Ask for a price rather than a character. "What are you willing to trade?" keeps the channel open. "What kind of person are you?" closes it.
+
+Use plain words aloud. "Weight" and "bodies" are for thinking. Say who waits, who pays, who does the extra work, who cannot refuse.
+
+## Describe what the other side supports by what it does to whom, one step at a time, and ask whether they accept it
+
+Translate the label into its function. "Collateral damage" becomes people killed who were not the target. "Mowing the grass," a term for periodic military operations, becomes rounds of killing that restart on schedule, and the phrase admits the weight comes back. "Settlers aren't civilians" becomes people who can be killed because of where they live.
+
+Ask in steps. Do you support this policy? Did this result follow from it? Is this result acceptable to you? Each step is small, and each exit is visible to the audience. A single question carrying every premise at once gets dismissed as a gotcha.
+
+Let them pick the number. They will dispute figures to get off the question, so take their own figure. Uncertainty never equals zero, and "is your number acceptable?" still stands.
+
+Stipulate their premises. Grant the armed group's tactics entirely, and the question survives: given how they fight, the policy you support produced this. Is it acceptable?
+
+Price both sides in bodies. "Security" left as a word while the other side gets numbers makes the trade look like lives against an abstraction. Ask which bodies it protects, how many, and by what mechanism. The honest answer turns the trade into lives against lives, and then the audit starts: does each part of the policy protect what it claims?
+
+Unbundle. A bundle of deaths, displacement, and land seizure lets them defend the most defensible item and call the package a smear. Ask about each item alone. The items where the security claim cashes out worst come off first.
+
+When they answer yes, take it as information and ask whether a cheaper route protects the same bodies.
+
+## When they raise their own dead, agree and extend
+
+When someone raises their own dead, the conversation has moved toward bodies. A debater treats a relative killed in the fighting as the opponent's strongest card. Here the answer is to agree fully, then extend: "I'm sorry. That weight never comes off your family. What would have protected them? Does the same protection reach the families on the other side?"
+
+## Bodies come before winning, even when the exit costs you the win
+
+The point was never the admission. When the other person takes the exit, observers lose the stark answer and some bodies get lighter. Take that trade every time.
+
+Most of the discipline falls on the person using the framework: no numbers fight, no labels, no victory lap after an exit.
+
+Against bad faith, disclosure is what survives. Someone who says yes to every item, down to tarps in winter, gives the audience a clear record and no relief. There the framework stops and the audience takes over.
 
 ## How a sentence is built decides whether a body can hide inside it
 
-Describe by function, in relation to bodies. Say what it does to whom. "The policy tightens eligibility" has not yet said what anyone has to do. "The office adds a form" follows to the applicant who loses an afternoon getting it, the clerk who checks it, and the person who gives up and goes without.
+**Describe by function, in relation to bodies.** Say what it does to whom. "The policy tightens eligibility" has not yet said what anyone has to do. "The office adds a documentation step" follows to the applicant who spends an afternoon getting the document, the clerk who checks it, and the person who gives up and goes without.
 
-Name the body before the abstraction carries him off. A nation has no stomach, a budget misses no meals, and a market waits in no hallway.
+**Name the body before the abstraction carries him off.** A nation has no stomach, a budget misses no meals, and a market waits in no corridor.
 
-State the burden in terms somebody can go and check. "Access remains difficult" fits any situation on earth. "The nearest clinic is a six-hour round trip" names a bearer and a size. Fear, exhaustion, and not knowing whether help will be taken away are burdens too. Check them through their traces: sleep lost, trips not taken, plans that can't be made, and time spent keeping a necessity from slipping away.
+**Put whoever is furthest under the burden first in the sentence.** The subject drags the sentence behind it. Open on the institution and the paragraph drifts toward what the institution needs. Open on the person and it stays with him. A paragraph that reaches its last line before a person appears has nobody in it.
 
-Say what got lighter and who got heavier, in the same place. When the burden came off and nobody downstream caught it, say that too, because a real removal and a hidden transfer look identical on a page that stays silent.
+**State the burden in terms somebody can go and check.** "Access remains difficult" fits any condition on earth. "The nearest clinic is a six-hour round trip" names a bearer and a size. Fear, exhaustion, and not knowing whether help will be withdrawn are burdens too. Check them through their traces: sleep lost, trips not taken, plans that cannot be made, time spent keeping a necessity available.
 
-Say it directly. A sentence whose only content is a description of the next sentence has no content. State the disagreement instead of announcing one. Make the points instead of counting them. Skip rating how well someone put something, because the praise proves nothing and spends the reader's attention anyway.
+**Write both sides or the entry is unwritten.** What got lighter, and who got heavier. When the weight came off and nobody downstream caught it, say that outright, because a real removal and a debit left off the books look identical on a page that stays silent about it. Every institution records its own credits, and the matching debit falls outside the fence where the recording happens.
 
-Use plain current words. Write so a reader a hundred years from now can still follow it. Keep a comparison when it explains how something works: a beam holds a roof, a pipe ends the hauling, a curb gives separation that paint leaves to attention, and a worn path shows where people need to go. Cut decoration, which shows up exactly where a detail was owed. A vague noun usually marks a person, an action, or a burden the sentence has not named yet.
+**Say it directly.** A sentence whose only content is a description of the next sentence has no content. State the disagreement instead of announcing one. Make the points instead of counting them. Skip rating how well someone else put it; the praise establishes no fact and spends the reader's attention anyway.
 
-Skip patterns built for rhythm. Sentences that deny one claim only to set up another, triplets built for sound, and a closing line that repeats the paragraph all put rhythm where a detail was owed. Vary sentence length. Lists are fine when every item carries information.
+**Plain current words.** Write so a reader a hundred years from now still follows it. Keep a comparison when it explains a relationship: a beam holds a roof, a pipe removes the hauling, a curb supplies separation that paint leaves to attention, a worn path shows where people need to go. Cut decoration, which arrives exactly where a detail was owed. A vague noun usually marks a person, action, or burden the sentence has not named yet.
 
-The reader is working too. Every announcement, unexplained term, and self-assessment spends attention before any information arrives. A reader who is tired, frightened, or reading in a second language has less to spend. Building that care in once works like the curb: nobody has to remember it on every trip.
+**No parallelism for its own sake.** Sentences that deny one claim only to set up its replacement, triplets built for rhythm, and a closing line that restates the paragraph all put cadence where a detail was owed. Vary sentence length. Lists are fine when every item carries information.
 
-The vocabulary here is for thinking. Body, burden, weight, and removal are for thinking with. Write with the words the situation already has: who waits, who pays, who does the extra work, who can't refuse, who is less safe, and who is left holding it. Recited signature words turn a description into a recitation, and fluent use of "bodies" and "burdens" can still leave out the daughter, the hours, and the unpaid nursing.
+**The reader is working too.** Every announcement, unexplained expression, and self-assessment spends attention before the information arrives. A reader who is tired, frightened, or reading in a second language has less to spend. Building that care in once works like the protected lane: nobody has to remember it on every trip.
 
-## Labels hide bodies, so describe by function
+**The vocabulary is for thinking.** Weight, burden, body, removal: think with them. Write with the words the situation already contains: who waits, who pays, who does the extra work, who cannot refuse, who is less safe, who is left holding it. Recited signature words turn a description into a recitation, and fluent use of "bodies" and "weight" can still leave out the daughter, the hours, and the unpaid nursing.
 
-A label names a category where a description of what happens to whom belongs. The burden crosses a label while everyone argues about the word. A label starts a decoy fight over whether it fits. It sorts people before anyone thinks. It expires when the fashion changes, and the argument dies with it. It hardens into an identity, and identity has no exit. It makes a sentence sound finished with nobody in it. It carries the speaker's side, while a description of function can be checked by anyone from any side.
+## Labels hide bodies as fences, decoy fights, pre-sorting, expiry, identities, false completeness, and sides, so describe by function, relative to bodies
 
-Words like "rights," "righteous," and "monstrous" point in different directions depending on who holds them, and they settle nothing. Ask instead who pays, who waits, who becomes less safe, who can refuse, and what changes if the arrangement stops.
+A label names a category where a description of what happens to whom belongs.
 
-Some phrases signal a hidden burden: "just," "at least," "realistically," "naturally," "unfortunately," "the market," "that's how it works," "it's complicated," "normal," "their choice," "the cost of doing business," "always has been," and any sentence where nobody does the action.
+- **A fence.** The weight crosses it while everyone argues about the word.
+- **A decoy fight.** The label invites a dispute over whether it fits, and the whole exchange happens there.
+- **Pre-sorting.** "Market rate," "capacity," and "family caregivers" turn a decision into ground before anyone thinks.
+- **Expiry.** Slogans and categories go out of fashion, and the argument dies with them.
+- **An identity.** A label sorts people, and identity has no exit.
+- **False completeness.** Labeled text sounds finished with nobody in it.
+- **A side.** A label carries the speaker's position. A description by function can be checked by anyone on any side.
 
-## Bodies go missing from writing in recognizable ways
+Language works as a solvent. "Airstrikes," "targets," and "collateral damage" dissolve people out of the sentence while the people stay dead. Describing by function puts them back.
 
-- **The opening agrees and then leaves.** It grants that bodies matter, and six paragraphs follow about institutions, motives, and principles with nobody named.
-- **A transfer gets counted as removal.** One side's numbers improved, and the extra work at the other end went unwritten, like a hospital paragraph with no daughter in it.
+Established names for ideas pull their usual arguments in with them, so this framework names ideas by what they do. Its own words go the same way once recited. A phrase that sounds like analysis and points at nobody is a label, even when it came from here.
+
+## The corners that stay dark are decisions somebody made that now get treated as ground
+
+The dark corners share one substance: a decision somebody made, or an arrangement somebody could change, treated as part of the landscape. Rent becomes "housing costs." A bed count somebody signed becomes "capacity." A daughter doing unpaid work becomes "family." A person who could be asked becomes "the situation." Bodies slip over the event horizon of discussion this way: the longer a burden has been there, the further out of view it moves.
+
+A thirty-year burden never has a moment, so no event draws attention to it. The baseline moved with it, and the chronic became the zero point. The record has no line for it, because institutions write their own side. Saying it costs the person who says it: naming the ideal sounds naive, naming a toll implicates whoever pays or collects it, and naming your own side's victims looks like defection. And the words arrived pre-packaged.
+
+**The corners**
+
+- The receiving end, where a moved burden landed.
+- The quiet receivers: far away, uncounted, outside the institution, too tired to complain, not born yet.
+- The chronic burdens.
+- The baseline, and who built it.
+- The toll.
+- The number somebody set: wages, prices, bed counts, eligibility lines.
+- The ideal nobody says out loud.
+- The ending: a recurring expense that could stop instead of being managed.
+- The step up: what is still on them after "better".
+- The keeper's reason.
+- The exit for the other side.
+- The ask: the powerful or the opponent can simply be asked.
+- The pool: people with no power can combine.
+- The helpers: staff, caregivers, the person praised for endurance, including you.
+- The watch and its cost.
+- The household of the person punished.
+- Your own side.
+- The unnamed: statistical victims and future children.
+- The release.
+- The deleted facts.
+- The label.
+- The success nobody notices.
+- The desire path read as trespass.
+
+Phrases that signal a corner: "just," "at least," "realistically," "naturally," "unfortunately," "the market," "that's how it works," "it's complicated," "normal," "their choice," "the cost of doing business," "always has been," and any sentence where nobody performs the action.
+
+Who set this, and could it be different? What weight is still on them? Asking both reaches every corner on this list.
+
+## Recognizing the failures on the page does more than memorizing rules
+
+Bodies go missing from writing in recognizable ways.
+
+- **Agreement, then institutions.** The opening grants that bodies matter, and six paragraphs follow about institutions, motives, and principles with nobody named.
+- **A transfer counted as removal.** One side's numbers improved and the extra work at the other end went unwritten. The hospital paragraph with no daughter in it.
 - **"Can" and "may" take the people out.** "A city can fund beds that go unused" has nobody in it. If it happens, say it happens.
-- **A category noun replaces a specific one.** "Relatives take on care at home" loses who, when, and whether she is paid. Somebody can go find the daughter, and nobody can go find "relatives."
-- **The vocabulary arrives and the people do not.** Bodies, burdens, and transfers appear in order while the six hours and the household still hauling water appear nowhere.
-- **Each paragraph gets more abstract than the last.** It starts with a person and ends in class, system, and structure, with nobody alive in the final paragraph.
-- **The burdens get turned into a score.** They get summed, ranked, and netted, and a total licenses running someone down.
-- **A roster starts.** An impressive label goes on the other side, and time gets spent deciding who belongs in it.
-- **Intent covers the result.** The argument shows he meant well and treats the burden as handled, while the evicted family still has nowhere to sleep.
-- **Balance stands in for checking.** Two positions get equal space and neither gets verified.
-- **A paragraph closes too well.** The better it closes, the more it needs the question: did a specific person get lighter?
-- **Watching gets offered as the fix.** "Be more careful," "screen everyone," and "monitor closely" appear with nobody counting whose hours the watch consumes.
-- **A record stands in for arrival.** Funding, referrals, training, and closed cases get treated as done.
-- **The asking stops at "better."** Relief gets taken and the next question never comes.
-- **The chain stops at a culprit.** It ends at a person to blame instead of at what keeps putting the burden back and what would change it.
-- **The familiar gets treated as free.** A burden gets left out because it has always been there.
-- **A found gap gets sanded over.** The edge gets smoothed instead of named, and the person who fell through it disappears.
-- **A new rule shows up where a definition was missing.** An exception usually means a word was not specific enough.
-- **The bodies on your own side go missing.** Used only to find other people's omissions, the question is already broken.
+- **A category noun replacing a specific one.** "Relatives take on care at home" loses who, when, and whether she is paid. Somebody can go find the daughter. Nobody can go find "relatives."
+- **The vocabulary arrives and the people do not.** Bodies, weight, and transfer appear in order while the six hours and the household still hauling water appear nowhere.
+- **Each paragraph more abstract than the last.** It starts with a specific person and ends in class, system, and structure, with nobody alive in the final paragraph.
+- **Turning it into a score.** Burdens get summed, ranked, and netted, and a total licenses running someone down.
+- **Starting a roster.** An impressive label for the other side, then time spent deciding who belongs in it.
+- **Intent covering the result.** The argument establishes that he meant well and treats the burden as handled. The evicted family still has nowhere to live.
+- **Balance mistaken for checking.** Two positions get equal space and neither gets verified.
+- **An ending that closes too well.** The better a paragraph closes, the more it needs the question: did a specific person get lighter?
+- **Watching offered as the solution.** "Be more careful," "screen everyone," "monitor closely," with nobody counting whose hours the watch consumes.
+- **A record mistaken for arrival.** Funding, referrals, training, closed cases, and the matter treated as done.
+- **Stopping at "better."** Relief banked and the question dropped.
+- **Relief measured against a floor the reliever built.** The permit gets counted as help while the closure sets the wage.
+- **Relief that needs the burden to stay.** An offer whose value comes from the weight it sits on.
+- **Stopping at the culprit.** The chain ends at an actor instead of at the arrangement and the keeper's reason.
+- **Treating the familiar as free.** A burden left out because it has always been there.
+- **A fine no body can pay.** Thirteen thousand years of wages ordered as restitution.
+- **Sanding down the edges.** A gap found and sanded over instead of named.
+- **A new rule where a definition was missing.** An exception usually means a word was not specific enough.
+- **The bodies on your own side going missing.** Used only to find other people's omissions, the framework is already broken.
 
-## The question answers the usual trick cases without any new rule
+## Each worked chain asks the same question at every level until it reaches a decision somebody could change
 
-Kill everyone painlessly, the trick goes, and nobody suffers. Death takes everything a body has, so nothing got lighter and nobody remains to be lighter. The heaviest burden there is cannot count as removal.
+### A shorter hospital stay moves the night nursing onto a daughter
 
-Don't have children, the trick goes, because they will suffer someday. Having a child moves weight off no one, so the objection to pushing burdens into the future makes no argument against it. That objection applies only when weight gets pushed forward to relieve someone now.
-
-Keep a person so comfortable that they never notice what was taken, the trick goes, and nothing is wrong. Non-consent is a burden whether or not it is felt, and a person who cannot refuse is where future weight piles up.
-
-Runners choose pain, the trick goes, so pain can't be a burden. A load someone chose and can set down whenever they like falls outside the definition.
-
-The person can't speak, or has stopped complaining, the trick goes, so there is no burden. A body needs no voice to count, and a burden counts whether or not it is felt.
-
-The old camp guard should suffer for what he did, the trick goes. Suffering added now lifts nothing off anyone, and the truth about what happened gets kept, because the truth prevents repeats.
-
-## The framework keeps its rough edges, and a found edge is evidence
-
-A theory claims completeness and has to defend it. This points the eyes, keeps asking, and hands decisions back, so it has no completeness to defend. When you find a place it handles badly, say where, name the person the gap left heavier, and keep asking the question. Sanding the edge smooth hides the person who fell through it.
-
-Most apparent exceptions mean a word was not specific enough. Tighten the definition before writing a rule. Positions the question leads to that feel strange stay held, because carving them out rebuilds the exceptions.
-
-When an idea comes back in another section in different words, it is showing another side of itself or connecting two parts. Leave it. Cutting a restatement because it was already said, or to save space, cuts the connection along with it.
-
-Some positions stay open: where addiction stops being a choice, how needs get set when they vary from body to body, whether and how other creatures belong under "body," and the best words for what a burden takes from a body.
-
-## Each worked chain asks the same question at every level until it reaches a decision someone could change
-
-### A shorter hospital stay sends the night nursing home to a daughter
-
-- "What burden does the shorter stay remove?"
+- "What weight does the shorter stay remove?"
 - "Days in a hospital bed."
 - "Where did the care go?"
-- "It went to the daughter, at night, unpaid."
+- "To the daughter, at night, unpaid."
 - "What is still on her?"
-- "She has lost sleep, lost wages, and nursing she was never trained for."
-- "Why does it fall on her?"
+- "Lost sleep, lost wages, nursing she was never trained for."
+- "Why does it land on her?"
 - "The discharge plan counts bed days and has no line for care at home."
-- "What could change that?"
-- "A discharge plan that counts the care at home, and paid nursing at home."
-
-### A hazard bonus pays for the danger instead of ending it
-
-- "What burden does the bonus remove?"
-- "None. It pays the operator for the risk."
-- "Who carries the risk?"
-- "The operator's hands carry it, every shift."
-- "What would end it?"
-- "A guard that keeps hands out of the press, and a press that won't run with the guard open."
-- "Why not?"
-- "It costs money and a day of downtime."
-- "What does one crushed hand cost, and who pays?"
-- "The worker pays with the hand, his family pays with his lost wages, and the plant pays the claim."
-- "Does the bonus need the danger to stay?"
-- "Yes. Without the danger there is no bonus."
+- "Who could change that?"
+- "Whoever writes the discharge plan and funds nursing at home."
 
 ### Work permits across a closed border draw their value from the wage gap the closure creates
 
-- "What burden do the permits relieve?"
-- "They relieve low wages inside the territory."
+- "What weight do the work permits relieve?"
+- "Low wages inside the territory."
 - "Do they fix low wages there?"
 - "No. Permit holders earn more than they would at home and less than the workers beside them."
-- "Better than what?"
-- "Better than a floor the closure itself set, by controlling what goes in and out."
-- "What is still on the permit holders?"
-- "They face hours on buses before dawn, waits and searches at the crossing, and a permit that can be pulled in a day."
+- "Better than what, and who set that floor?"
+- "The floor comes from a closure that controls what goes in and out: materials, fuel, water, trade."
+- "What weight is still on the permit holders?"
+- "Hours on buses before dawn, waits and searches at checkpoints, detentions, and a permit that can be revoked in a day."
+- "Why do they take it?"
+- "No work at home pays enough to beat giving up those hours."
 - "Why is there no such work at home?"
-- "The closure chokes what a local economy needs to grow."
-- "Does the relief need the burden to stay?"
-- "Yes. The permits are valuable because of the gap the closure creates."
+- "The closure chokes the inputs a local economy needs. The choking is weight."
+- "Does the relief depend on the burden staying?"
+- "Yes. The permits are valuable because of the wage gap the closure creates."
 - "Why is the closure there?"
-- "It is there to stop weapons, which would hurt people on the other side."
-- "Does choking everything stop that?"
+- "The stated reason is stopping weapons, which would put weight on the neighboring state's people."
+- "Does choking every input remove that weight?"
 - "It restricts weapons, and it also restricts food, materials, and jobs."
-- "Would checks aimed at weapons protect the same people with less weight on everyone else?"
+- "Would inspection aimed at weapons protect the same people with less weight on these?"
 
-Both sides now face a design question, and neither has to admit guilt to answer it.
+Both sides now face a design question, and neither has to concede guilt to answer it.
+
+### Rent priced in hours splits into pay for work and pay for access
+
+- "What does the rent cost?"
+- "Fourteen hundred dollars a month."
+- "In hours?"
+- "Seventy hours at twenty dollars an hour, about two-fifths of a full-time month."
+- "What part paid for work?"
+- "Maintenance, management, construction, and the financing that got the building built."
+- "What part paid for access?"
+- "The location, and a scarcity created by rules that limit building."
+- "Who set those rules?"
+- "The city's zoning code."
+- "Could it be different?"
+- "Yes. Allow more building, and build housing that charges its cost."
+
+### A lapsed subsidy puts housed people back outside, and renewing it first makes other people wait
+
+- "The street count rose. Why?"
+- "A rent subsidy program paused new enrollments for lack of funds, and some housed households lost support."
+- "What weight is on the people who lost it?"
+- "Rent they cannot pay, then eviction, then a car or a sidewalk."
+- "What keeps them housed?"
+- "Renewing the subsidy they already had, for a fraction of what housing them again would cost."
+- "If renewals come first, who carries weight?"
+- "People still outside, who wait longer for a first placement. Write them in."
+- "What is still on the people outside?"
+- "Nights outside while vacant units sit empty over paperwork."
+- "Why are the units empty?"
+- "Missing documents, slow referrals, late inspections, landlords refusing vouchers."
+- "Who could change that?"
+- "Whoever runs the lease-up: staff who gather the documents, a deadline for filling units, and the city carrying the landlord's risk."
 
 ### A fine no worker could pay returns none of the loss
 
@@ -524,14 +712,91 @@ Both sides now face a design question, and neither has to admit guilt to answer 
 - "How long would repaying it take?"
 - "About thirteen thousand years of full-time work."
 - "Does an order that size return any of it?"
-- "No. It follows him for life and returns nothing."
+- "No. It draws on his account for life."
 - "Where does the loss go?"
-- "It goes to insurers, who exist for losses no single body can carry."
+- "To insurers, who exist for losses no single body can carry."
 - "Who else carries weight?"
-- "His coworkers lost their jobs, and neighbors ran from the smoke."
+- "Coworkers who lost their jobs, and neighbors who ran from the smoke."
+- "What takes it off them?"
+- "Relief from the pool or the company."
 - "Why did he do it?"
-- "He said the pay was too low to live on. That was a burden kept on a body too long, and the release fell wherever it fell."
+- "He said the pay was too low to live on. Wages below what a body needs are a chronic burden, and a release lands wherever it lands."
 - "Is he still a danger to anyone?"
 - "That answer decides whether confinement belongs here at all."
 
-Get the weight off, keep it off, and never set it on somebody else to do it.
+## The framework keeps its rough edges on purpose, and a found edge is evidence
+
+A theory claims completeness and has to defend it. This framework points the eyes, keeps asking, and hands decisions back, so it has no completeness to defend. When you find a place it handles badly, say where, name the person the gap left heavier, and keep asking the question. Sanding the edge smooth hides the person who fell through it.
+
+Most apparent exceptions mean a word was not specific enough. Tighten the definition before writing a rule. The positions the question leads to that feel strange, like leaving the lever alone or giving the elderly guard no punishment past the record, stay held. Carving them out rebuilds the exceptions.
+
+Positions still open: where addiction stops being chosen, how a person's needs get set when they vary with the body, and where the edges of "body" and "account" fall.
+
+## Every concept appears here with the other ways the framework says it, because saying an idea more than once is how it sticks
+
+Repetition is how a reader, or a model, connects two parts of the framework instead of treating them as separate rules.
+
+- **Did weight come off, did it land on someone else, can someone check?** Also: follow the weight to the hand that caught it; say what got lighter and who got heavier; check at the far end. *Transfers and unchecked claims are the most common false removals.*
+- **What weight is still on them?** Also: take the good, then keep asking; "better" is banked, never done; the next step comes from what remains on him; ask why not until it's gone. *Stopping at "better" is the default for people and models.*
+- **Who set this, and could it be different?** Also: somebody set the amount; a starting point doesn't look like a decision; a decision gets treated as ground. *Conditions treated as ground stay invisible without it.*
+- **A body is anyone who can go hungry, tire, fear, or hurt.** Also: groups count as fully as individuals; the not yet born count; a body needs no voice to count. *Scope quietly shrinks to whoever is present and speaking.*
+- **Weight counts whether felt or not.** Also: a person who adapted still carries it; particulates sit in a lung whether or not anyone knows whose; overriding refusal is weight even when unfelt. *Adapted and unaware bearers get dropped.*
+- **The body's account.** Also: life, health, sleep, time, movement, safety, resources, and control; weight is a draw on it; surplus from others' needs was never in it. *Most conclusions follow from it.*
+- **Measure weight where it lands.** Also: a hundred-dollar fine takes rent from one person and leaves another untouched; income-scaled fines; thirteen thousand years of wages. *Equal money reads as equal weight.*
+- **No netting, no score.** Also: each burden has its own bearer; two hours saved does not cancel lost sleep; turning it into a score. *Summing burdens is the most familiar move in policy writing.*
+- **Counting differs from ranking.** Also: reaching five instead of one repeats one act five times; leave the lever alone. *Dilemmas get forced into arithmetic.*
+- **No ruling between bodies, and removal keeps going.** Also: the question points the eyes and hands the choice back; "no ruling" never means stop. *"No ruling" gets misread as "stop."*
+- **The body is the anchor nobody can swap out.** Also: other anchors expire; a slogan made of bodies stays hard to empty out. *Arguments drift toward abstractions.*
+- **Keep going down until a person shows up.** Also: a budget cannot miss a meal; territory has no body; name the body before the abstraction carries him off. *Every abstraction invites a stop.*
+- **Name the condition you want first.** Also: somebody needs a house, so the solution is a house; the expense itself could end; say it even when it sounds childish. *Methods turn into goals quietly.*
+- **What gets counted gets done.** Also: pay for beds filled and you get full beds; pay for people still housed a year later and you get housing. *Scorecards set behavior before anyone decides to.*
+- **Moving differs from removing.** Also: the hand that caught it; diverting the trolley moves the weight onto him; a transfer counted as removal. *Transfers look like relief from a distance.*
+- **The quiet receivers.** Also: people far away, uncounted, outside the institution, too tired to complain, not born yet; records stop at the edge, and weight does not. *They cannot remind anyone.*
+- **Better than what, and who set the floor?** Also: relief measured against a floor the reliever built. *Relief usually gets measured from that floor.*
+- **Does the relief need the burden to stay?** Also: permits drawing their value from the wage gap; an offer that belongs to the structure keeping the weight on. *The structure's own offers look like relief.*
+- **Relief can lighten the observer instead of the body.** Also: the cleared park; the swept sidewalk. *A cleared sidewalk looks like a solved problem.*
+- **Sources of weight, never culprits.** Also: look for what keeps the weight on; a roster of villains; stopping at the culprit. *Culprits pull attention toward themselves.*
+- **The keeper and the keeper's reason.** Also: ask what weight they say they are carrying; would inspection protect the same people with less weight on these? *Chains stop at the first actor.*
+- **Blame hides information.** Also: punish the bearer of bad news and bad news stops arriving; blameless engineering reviews. *Punishing reports silences them.*
+- **The oldest burdens are the hardest to see.** Also: the corners; treating the familiar as free; the event horizon of discussion. *The oldest burdens have no event.*
+- **Price it in hours, and split work from access.** Also: money hides the body and hours show it; the toll. *The toll hides inside one monthly number.*
+- **Taking more than you need out of someone else's needs puts weight on them.** Also: nobody is owed another person's body beneath their own ease; returning surplus is restitution. *Restitution gets mistaken for generosity.*
+- **Weight settles on whoever cannot walk away.** Also: the leave test; who has the least room to refuse. *Who can leave predicts where weight lands.*
+- **Bundling.** Also: a job carrying income, insurance, housing, and residency; a visa tied to one employer. *Each tie looks harmless alone.*
+- **Raise the floor of the position.** Also: rescuing one person hands the weight to the next; cash works where supply can respond. *Rescuing one person feels like fixing the position.*
+- **Somebody set the amount.** Also: keep a second record of why there was not enough; much apparent triage is shortage somebody built. *Shortage gets stated without a signer.*
+- **Ask what the stipulation removed.** Also: a dilemma is a post-failure state; the work sits upstream, where an engineer would put it.
+- **Pave the desire path.** Also: the worn path is information; pave the need; build the safe crossing. *Behavior gets read as defiance.*
+- **A body carrying more than it was built for fails without warning.** Also: the bridge; the release lands wherever it lands; a forecast, never a license. *The failure gets remembered and the weight forgotten.*
+- **Structures over people.** Also: the curb over the paint; the pipe, the beam, the guard at the blade. *Rules get offered where structures were needed.*
+- **Watching is work.** Also: fraud screening spends an honest applicant's afternoon; prefab shelter with no cement ends the watch; watching offered as the solution. *Monitoring is the default proposal.*
+- **The person under the burden never does the paperwork.** Also: default-on beats apply-for; checking costs someone's time. *Checking results creates new paperwork.*
+- **Tonight's relief counts in full.** Also: feed the hungry person tonight; hunger next month does not erase tonight's meal. *Long-term thinking gets used to delay tonight's meal.*
+- **Keep what works.** Also: renew support for people already housed, and write in the people who wait longer because of it. *Success makes the need look smaller.*
+- **Future bodies count in full.** Also: postponement; the weight has a body waiting for it; poisoned ground and deferred maintenance. *The people absorbing postponement are absent.*
+- **Name the group and the mechanism when you cannot name the person.** Also: statistical victims; exposure already sits in each body's account. *Only named victims draw attention.*
+- **Warnings and promises owe arrival conditions.** Also: a promise with no arrival condition is a method dressed as a result. *A warning without one justifies any weight.*
+- **Death takes the whole account.** Also: killing is the largest draw on an account there is.
+- **Overriding refusal is weight.** Also: control is a line in the account; the unconsented exam; the hidden camera. *Unfelt violations leave no trace to prompt anyone.*
+- **Disable, never avenge.** Also: stopping someone takes back only what they were taking; vengeance adds weight and removes none. *"Consequences" drifts into cruelty.*
+- **Punishment lands on people who did no wrong.** Also: the household; the children who lose someone who fed them. *They appear in no sentence about the offender.*
+- **Restitution goes up to what a body can return.** Also: no stacking on confinement; the rest goes to the pool; the exit never means keeping what was taken. *Damage totals get mistaken for what a person can return.*
+- **Status on paper neither creates a need nor erases one.** Also: help follows bodies and force follows violence. *Papers get treated as needs.*
+- **There is one side: the people carrying weight.** Also: another body adds another burden to understand; Halim past the bridge; leave working hands alone. *A new body gets heard as an opposing side.*
+- **Run it in both directions.** Also: your own side's bodies; "context" as a discount; it betrays every coalition. *The framework breaks the moment it runs one way.*
+- **Conduct has an exit, and identity has none.** Also: name the conduct and leave the standing; a label sorts people into identities. *Labels quietly become identities.*
+- **The no-fault exit, then "which weight first."** Also: "the weight should come off" is always accepted; the number moved, so the method moves. *The exit gets forgotten in the middle of a fight.*
+- **Reach out alongside relief, never in front of it.** Also: the trench truces and the navies; no friendship paid for with someone else's body.
+- **Combine when nobody can be reached.** Also: unions, tenants' associations, co-ops; wide pools. *People with no power get treated as having no move.*
+- **Check at the far end.** Also: the fourth household uphill from the tap; every recommendation carries its own arrival check. *Institutions report their activity.*
+- **Never lie about where the weight is.** Also: a changed record leaves the burden unchanged.
+- **Agreement, fluency, and a closed case feel like removal.** Also: familiarity, balance, and "better" do it too; an ending that closes too well. *Each feels identical to success.*
+- **Aim for repairs nobody remembers arguing about.** Also: the stairwell light; the bridge standing fifty years; success nobody sees. *Success produces no event.*
+- **Every turn closer to a body.** Also: acknowledge, then return; say the aim out loud; ask for a price, never a character.
+- **Describe what they support by what it does to whom.** Also: ask in steps; take their number; grant their premises; price both sides in bodies; unbundle.
+- **When they raise their own dead, agree and extend.** Also: a relative killed in the fighting is the conversation moving toward bodies. *Their dead get treated as their argument.*
+- **Bodies before the win.** Also: the exit sometimes costs the win, and the trade gets taken every time. *Winning feels like progress.*
+- **How sentences hide bodies.** Also: the failures on the page; put the person under the burden first; write both sides. *The failures happen at the level of the sentence.*
+- **Describe by function.** Also: labels as fences, decoy fights, pre-sorting, expiry, identities, false completeness, and sides; language as a solvent. *Each label failure looks different.*
+- **The corners.** Also: decisions treated as ground; signal phrases like "just," "at least," and "realistically." *The corners are where attention does not go.*
+- **Rough edges stay.** Also: a found edge is evidence; tighten the definition before writing a rule. *People and models sand edges by reflex.*
